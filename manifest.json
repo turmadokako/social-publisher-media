@@ -1,1 +1,1114 @@
-[]
+[
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/9e89442385b8cf9d/video.mp4",
+    "sha256": "9e89442385b8cf9dad0ef5bbe51b8193fdaa9a29bd233f9fac64f27f33fe5657",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/eb625bce7873b933/01.png",
+    "sha256": "eb625bce7873b9338e64414908fb5fd7a952b16cd34ee93393ed38ec3015da7f",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/5f49051efa676c8f/02.png",
+    "sha256": "5f49051efa676c8fcfd3e1c21b562571314ce1cb42278d83a4c3385617910bad",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/44098eb209e49803/03.png",
+    "sha256": "44098eb209e49803f25c92b01781b39c7bea3d035b5c2a119affab772a440947",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/3b51b69a7cefee78/04.png",
+    "sha256": "3b51b69a7cefee78275343eca50a3f0eefebca36be2b38130c8cc7187142b77b",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/7c935e6dab07b1a4/05.png",
+    "sha256": "7c935e6dab07b1a40ebed67d9e8f7c01f83bc98988f085f1a40ec9f470b4ba1c",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/9646fd386745880d/06.png",
+    "sha256": "9646fd386745880d50012312e4f834d89155f87b77cd673a7d7cc126abeb98e4",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/9948b373251be294/07.png",
+    "sha256": "9948b373251be294da85716cef8e5501e05bbc1542487a9dbfb717f3049eb70e",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/94986d9d7a2bc24a/08.png",
+    "sha256": "94986d9d7a2bc24ab0d80563e363a8b5ec2f6a5fdeec7318a112dd492d19a6a6",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/62f258ed456d640d/01.png",
+    "sha256": "62f258ed456d640dbff69644616119c59fd3d27425bd37d55cfdfa600f1f44a8",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/0a53258a70e75e07/02.png",
+    "sha256": "0a53258a70e75e07b0de4ecb28ff095bae78a1da2acb74c7173cd089c3412c44",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/39b54077da212e1c/03.png",
+    "sha256": "39b54077da212e1c57b4320eb43171e69151245509f8add404a2462e0477ffaf",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/9578cddc8e6af9bc/04.png",
+    "sha256": "9578cddc8e6af9bc45677c4e56252e417f295e24e85cfbc70232133b4783562d",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/93744993d14ad18c/02.png",
+    "sha256": "93744993d14ad18cedcc9b44bb7f0634a58f4291b4caf94c582973e7c3cacebd",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/7849b705d4c6d907/03.png",
+    "sha256": "7849b705d4c6d907b6a11cdfad94be16bf02da8dfb500d9329b2777df9c16a14",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/dba91b497453040b/04.png",
+    "sha256": "dba91b497453040b73014abb35cd84d73baafa6f50a668abf0036723eb10a6a8",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/e240886c6aa035c2/05.png",
+    "sha256": "e240886c6aa035c27431c26a0fed1f1a032f14a9ec74feb5219b4e4d6192883b",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/0a53258a70e75e07/06.png",
+    "sha256": "0a53258a70e75e07b0de4ecb28ff095bae78a1da2acb74c7173cd089c3412c44",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/9578cddc8e6af9bc/07.png",
+    "sha256": "9578cddc8e6af9bc45677c4e56252e417f295e24e85cfbc70232133b4783562d",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-hollow-trunk-whistle-narrated",
+    "publicPath": "m/f813559dd87389e6/08.png",
+    "sha256": "f813559dd87389e64861dd449024dd73b8dd3356234db5348a7363611ea94442",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T11:30:00Z",
+    "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/1fc0d9c93f6316d1/video.mp4",
+    "sha256": "1fc0d9c93f6316d1dcd7ae868cb9b5692f5cf9a6e6d709025c194218374f034d",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/2761c6a9a74874cb/01.png",
+    "sha256": "2761c6a9a74874cbc555322462558d5d40873531c74deba5cd2973f53f3edcc5",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/79ca1dabd3c28cd2/02.png",
+    "sha256": "79ca1dabd3c28cd2e46b3216a292215b2781713b0215a85e66ec0fbb5bec0386",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/1b9a616a2c21bb27/03.png",
+    "sha256": "1b9a616a2c21bb27c585436e8aba6bfdc594b12add685efd362f52df1d9b1a49",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/5fd156b6216bdf73/04.png",
+    "sha256": "5fd156b6216bdf736c6de12e99012716588e2b267f6fbbd38dbdd0dba7b8bbe5",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/e503ac77d1664ca9/05.png",
+    "sha256": "e503ac77d1664ca9f53c49251de89e375b45a51ef6dbfad65bf670d2eedf31ca",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/2d13465487c2155c/06.png",
+    "sha256": "2d13465487c2155c2ecc44f2515e10a7a046af0694c2c9b06d549a4be05db433",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/a3c02860586919c1/07.png",
+    "sha256": "a3c02860586919c161a34dd31dd2408f446cba13c39b68581587a3fdeac0377e",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/1d9235aeb10dc2f5/08.png",
+    "sha256": "1d9235aeb10dc2f5107d9f547dafd8b3f92d90992ddc29cac81a89cf0bee111d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/ac64887828084d71/01.png",
+    "sha256": "ac64887828084d717cd38ca0189b26493312e024671adb73fe996f7dec83e29e",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/a252b90d73b2f4a6/02.png",
+    "sha256": "a252b90d73b2f4a6f878315d99aa634e8ac26cebea510804ab9bfee9e9ef338b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/ebbe0db571636420/03.png",
+    "sha256": "ebbe0db571636420843e4d4ea59dab4a6f0e9172b4eecde057e92c0c7d659429",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/8e192cb8f7efda42/04.png",
+    "sha256": "8e192cb8f7efda420d63cdb3be8bda05029a3759e712ae75757ea7e995f4f90b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/064544143bfb0989/02.png",
+    "sha256": "064544143bfb0989d85e6cc542aad7ab3ddd4255aab83c9f6b11817c6219f6b0",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/4d4f01bdd12af5ea/03.png",
+    "sha256": "4d4f01bdd12af5eacb6c1f7555f586476c36b935e3f1a6b33a40594b0bab07b6",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/dc14367bb2435f87/04.png",
+    "sha256": "dc14367bb2435f877e8a8210c7492c5725345bc316876e32185a5ef1cc3cb63d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/179859c1a644a007/05.png",
+    "sha256": "179859c1a644a007c3f6dfa139be8369ce79fd58bfebc3b214d89023546e0ebb",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/408e901e23a1b964/06.png",
+    "sha256": "408e901e23a1b964a8f54baa28f3206c602c6299b2395b4923a99b27fb39242b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/8e192cb8f7efda42/07.png",
+    "sha256": "8e192cb8f7efda420d63cdb3be8bda05029a3759e712ae75757ea7e995f4f90b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-running-drum-narrated",
+    "publicPath": "m/ccdb70c63c9e4c66/08.png",
+    "sha256": "ccdb70c63c9e4c6668305bc673de4527a4c53b3fae7f5dc375553a3f0d9f9975",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T11:30:00Z",
+    "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/09471a3eeee3fa8a/video.mp4",
+    "sha256": "09471a3eeee3fa8a011271dc4df56c1a04d45dd4683443e9546f5162e3f6b761",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/f22e30b1588e3d2e/01.png",
+    "sha256": "f22e30b1588e3d2e12e2d9f6385d778e008822fbf169f0bfd771a2764030c225",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/58fb3f17315656f7/02.png",
+    "sha256": "58fb3f17315656f7264322ad3e4dd7d1c3d0df7c549652d8428d95d2f8b9ffc3",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/838482afa056bb79/03.png",
+    "sha256": "838482afa056bb795b37187cf8b90e6cf4c7b8ba259b2a3022777fb2abb16284",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/8fe13f6981a84745/04.png",
+    "sha256": "8fe13f6981a84745efaf4bc46a163f21c19b60700f4d744d01d28131e6cdba44",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/23bb11f14dea6198/05.png",
+    "sha256": "23bb11f14dea619874bb7ce143e5dfcb5297bac1d1800f8b539cafe2103d1e99",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/eff28afa013f2518/06.png",
+    "sha256": "eff28afa013f2518585eab4d8cf69c7f5b2a406f215ebd01ff3a0b6d10a72110",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/e6b51e7d28b52161/07.png",
+    "sha256": "e6b51e7d28b521617fd52f49265344d8ece7ebdaf7922f74a8c841be59922a83",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/0d9cc2a3fd6792b3/08.png",
+    "sha256": "0d9cc2a3fd6792b36f948284b934e29b174a7dbdfe2d6795919f3ca13f5bba74",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/ed70029266585ce1/01.png",
+    "sha256": "ed70029266585ce187a8b49f7f24787315d3cd1a817769ea325af82fdaa80ee6",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/90ba1d6cab50a227/02.png",
+    "sha256": "90ba1d6cab50a227e4b828665923760aa385c439dcbaadda3398d4c5e4c41280",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/ad47ca3b3308a126/03.png",
+    "sha256": "ad47ca3b3308a12616be455e1226442373b9a4e97ae446b1fd9ed8a8599842d8",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/60759b6588ee1d74/04.png",
+    "sha256": "60759b6588ee1d749d64f5cd53ee85f1cd46d615f486df0cc1d75df7e63f5747",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/afd05b075a8d59ef/02.png",
+    "sha256": "afd05b075a8d59ef22e1ddf754f15d86b800d32e98100471b0b6daf13f7826df",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/90ba1d6cab50a227/03.png",
+    "sha256": "90ba1d6cab50a227e4b828665923760aa385c439dcbaadda3398d4c5e4c41280",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/8fe04e72e8b3cedd/04.png",
+    "sha256": "8fe04e72e8b3cedd5abf8a165d781a7fba5b06cb93e4e76edc48ec91551f587c",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/e0f21e74c2cb402f/05.png",
+    "sha256": "e0f21e74c2cb402fee8279e8c5eddd896b713d3062ebc0bc38277e14872396cc",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/fcde368069dcfe88/06.png",
+    "sha256": "fcde368069dcfe887b25a6977075441a2455f57d1bcaf84ab5de3c1c252e934e",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/60759b6588ee1d74/07.png",
+    "sha256": "60759b6588ee1d749d64f5cd53ee85f1cd46d615f486df0cc1d75df7e63f5747",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-blue-sneeze-drawing-narrated",
+    "publicPath": "m/15258ef4401fe503/08.png",
+    "sha256": "15258ef4401fe503b2d351f8b1dd113a0ca0be61239420ee6afdae540e36169b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T11:30:00Z",
+    "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/4150115e2bfaf9d5/video.mp4",
+    "sha256": "4150115e2bfaf9d5babf4423b56f9b9baac1585f341e3c71ef84f71cb588699e",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/7fa8d5545e4ff1e5/01.png",
+    "sha256": "7fa8d5545e4ff1e5012559488943fc04966309af4f7f68e0159cfbc4c789b7b6",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/b0f72b26cd9bb496/02.png",
+    "sha256": "b0f72b26cd9bb4963d2a09334dc4fe0c641fb30eac873000b22751a6f9a424c8",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/eed3214f86bc49c9/03.png",
+    "sha256": "eed3214f86bc49c9849cbc965af4d366241c1f377085578ad1ab13c600539a08",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/ed78c517b3f9ef0f/04.png",
+    "sha256": "ed78c517b3f9ef0ffd7f5c049510f9f66b67ec0aeb5e4fbcc3cfe1849b14c4eb",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/7ec341aff67c140f/05.png",
+    "sha256": "7ec341aff67c140ff3c3a0c04d17a273b45ee94a0d612937aac8eb6e5ce5a4ec",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/c2fb688fb0f98fc8/06.png",
+    "sha256": "c2fb688fb0f98fc8491973f9d4e0f7930a734c7e4f31994212a40a05e4e50981",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/d37ad09fe5266674/07.png",
+    "sha256": "d37ad09fe52666747c739666daf15486f9fef46d414d0bdd16e0c1053f0df9ff",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/cdf07f46b6c53001/08.png",
+    "sha256": "cdf07f46b6c5300100e1b1f9d3c1847a2d73f6c93e0c0cfded10edfe7e8af6fb",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/de8b87ec95406543/01.png",
+    "sha256": "de8b87ec95406543327b3acd2f32e4d547e86ab36ca995940640314bdbe5c3f4",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/0522f74ba75891d2/02.png",
+    "sha256": "0522f74ba75891d28eccf6d8441abd9f56a1aaffa91eb1bb05967e62a2c5abd6",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/421ea8810475914c/03.png",
+    "sha256": "421ea8810475914c95a1be831b18dfe5fa5f144b721d5476c95eb2a4e5441c8d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/1154ab2777eabf73/04.png",
+    "sha256": "1154ab2777eabf7364920878fdfd7f71d617db41afa5012a7ae697ba25892c09",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/e358436e13152cff/02.png",
+    "sha256": "e358436e13152cffd1228241bf9eec54937ede404fe95e754818d475aae15353",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/ab7fc05a5fb2c115/03.png",
+    "sha256": "ab7fc05a5fb2c1155f6b7b92dfd653ded3d0fd45b3a0e6fa7a8d2be59851ca55",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/0522f74ba75891d2/04.png",
+    "sha256": "0522f74ba75891d28eccf6d8441abd9f56a1aaffa91eb1bb05967e62a2c5abd6",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/220f9a687bb756e9/05.png",
+    "sha256": "220f9a687bb756e90d081d230736d8b63e9fbe30aacad83629a971102bb36d95",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/339d10e549ebb134/06.png",
+    "sha256": "339d10e549ebb1340e7911370e3a6af4cbc3fad4804501d64b4951d0aa175632",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/1154ab2777eabf73/07.png",
+    "sha256": "1154ab2777eabf7364920878fdfd7f71d617db41afa5012a7ae697ba25892c09",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-lola-small-shadow-narrated",
+    "publicPath": "m/2e1d84c9ef5cf1c3/08.png",
+    "sha256": "2e1d84c9ef5cf1c30094d19bfa43a2e33fd53504dd9442c66605f0faafe66e42",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T11:30:00Z",
+    "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/d2475517950232aa/video.mp4",
+    "sha256": "d2475517950232aa9f160a56a97346617bb3209a691c72098bc3a73af33dfb46",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/f1ed9bb8f9c5f339/01.png",
+    "sha256": "f1ed9bb8f9c5f3393eb7879d97f76cc42df385b38e2f909532703f203901e6f9",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/b43f1e32cd12e7a1/02.png",
+    "sha256": "b43f1e32cd12e7a118dcc470507f2434d8c4aa7b4322bc8eee1a8ae2ef1cf99f",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/54b2f8f174c80b1b/03.png",
+    "sha256": "54b2f8f174c80b1b0330a00cc07a439d5ee38a711d5c84a46e4f6d928b2c43a6",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/5dcad47b42744d3a/04.png",
+    "sha256": "5dcad47b42744d3a562cda0af9fcd81f277403c082b034fbba4462ecd491caab",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/fab16e41b10287ea/05.png",
+    "sha256": "fab16e41b10287eafac21c226dd7f31b9982942e45e05de65d120b8ef5ecc347",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/6916f0226854125e/06.png",
+    "sha256": "6916f0226854125e952b98671f7411e86f3ba7f551d06db501111b590a00ccef",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/4cfb5f561cb957f9/07.png",
+    "sha256": "4cfb5f561cb957f9072a8e89c857805a3d82774a7cfd153e129dba9c9e4b9bb2",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/9889b3c4685d70cc/08.png",
+    "sha256": "9889b3c4685d70ccbff60bcec9f73f59537c8fad7c7a4579761e86f50a41e97e",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/fc016e3cba5e6b73/01.png",
+    "sha256": "fc016e3cba5e6b73f46c6432b8df28fc985e39544da45f65da111d5955729ec2",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/41554204e3db31f0/02.png",
+    "sha256": "41554204e3db31f0f63626d383b74f9a04cf9707a1301fd5a42be82384dc165f",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/166158df6d3941bc/03.png",
+    "sha256": "166158df6d3941bc96741cf37b4515fbe6b723bbabf698339192dc8e46127708",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/822f99b56f2c76a5/04.png",
+    "sha256": "822f99b56f2c76a5032f376daf3a68e4693403fcd2279aec7b2a710b36e517c8",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/dcf18ffbe5c1d89e/02.png",
+    "sha256": "dcf18ffbe5c1d89eb09a8010b9110c6c56d963f69cca927eab677933ac7bcf1f",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/7fa3b09a6bd96bf1/03.png",
+    "sha256": "7fa3b09a6bd96bf171bbe12e40d3856b2ac4a8fb3b0a2c3e6a536d1dfc8bfbcf",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/41554204e3db31f0/04.png",
+    "sha256": "41554204e3db31f0f63626d383b74f9a04cf9707a1301fd5a42be82384dc165f",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/619687be32d1160b/05.png",
+    "sha256": "619687be32d1160b15fb4808635da2885c4a24cec5304380a52c438570245d07",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/17d5c94adef0820c/06.png",
+    "sha256": "17d5c94adef0820cd02980aec39891cbea0dfccbed540a6fb1a1ea7b197f0d9d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/822f99b56f2c76a5/07.png",
+    "sha256": "822f99b56f2c76a5032f376daf3a68e4693403fcd2279aec7b2a710b36e517c8",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-flying-leaf-party-narrated",
+    "publicPath": "m/e621e43f9a85f482/08.png",
+    "sha256": "e621e43f9a85f482a98528449fea0da5f431d3e602954f90d8231eb1526cd630",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T11:30:00Z",
+    "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/83de6386bd77ebdc/video.mp4",
+    "sha256": "83de6386bd77ebdcf4084ad3f8f212585d1ea6b14815a5f12f3d789a7a6f4daa",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/74d346bccbb46544/01.png",
+    "sha256": "74d346bccbb46544b3157e7b6d8fbcb9b406cd7b9210a3db2d4f69ec0d882ff1",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/d445a9ed3cb36383/02.png",
+    "sha256": "d445a9ed3cb36383199650e16b510bdec461e388a953707652eb5b7024bdd5bd",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/154c02c4b46d65e1/03.png",
+    "sha256": "154c02c4b46d65e1ea4968717a8679b2068c739b457accfd8cc38c86052fb1ab",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/8791f97fb233d013/04.png",
+    "sha256": "8791f97fb233d0131ea7b712a3c1978884873065a1cd2c80eddb330321fb370b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/601fb6dda6957793/05.png",
+    "sha256": "601fb6dda69577935a4d8515b5eff52463f98c37c08cac8090793ce2bf0e70ef",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/4b2c16744d769d82/06.png",
+    "sha256": "4b2c16744d769d82a77870e3f8e148c069ac95e90f0e87d72f824d5b0e1c0ddc",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/9239e21ae047935f/07.png",
+    "sha256": "9239e21ae047935f47fb35fd2e8ee34bd4e63c394ba3af59c66839e31e5b2896",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/369dddcee74a936d/08.png",
+    "sha256": "369dddcee74a936d3df0b6bf0e0703d04167aa38659988062c032f6445c24b6c",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/6e80e74d70ab35ca/01.png",
+    "sha256": "6e80e74d70ab35ca78fae4b68297d31c3c4a813cfdf70d9e849135ff233495dc",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/78911dba11c307e6/02.png",
+    "sha256": "78911dba11c307e6ea31db86c4194cf7d4b0843d63de7acf2f1f46dc39e3c139",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/a6780e4468206ea9/03.png",
+    "sha256": "a6780e4468206ea95204bc0924491fae5b470f313cc3f5a87ca88e76ad2829ad",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/c1a4b50bf05e833f/04.png",
+    "sha256": "c1a4b50bf05e833fea35b8d6786bef0e5b1d2d052ca0f9dc32818a442a5d2e4d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/d4ab28db5a4f0232/03.png",
+    "sha256": "d4ab28db5a4f0232413e353538710370f77750ef183c9238e7b1fcdb85d6c4ac",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/75957ea25087a907/04.png",
+    "sha256": "75957ea25087a907481caaa8a3dd3f85322e06077fa959d6c8049f52b4c30503",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/a6780e4468206ea9/05.png",
+    "sha256": "a6780e4468206ea95204bc0924491fae5b470f313cc3f5a87ca88e76ad2829ad",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/d0fca178e227c9dc/06.png",
+    "sha256": "d0fca178e227c9dccb38e930d7438cad6b700f80acaec042f55eed44903b3d50",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/c1a4b50bf05e833f/07.png",
+    "sha256": "c1a4b50bf05e833fea35b8d6786bef0e5b1d2d052ca0f9dc32818a442a5d2e4d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-ploft-tent-narrated",
+    "publicPath": "m/525f75ead18c12c6/08.png",
+    "sha256": "525f75ead18c12c644a4510b63ab30d95a07be395e7879b0635e94abc2d8b14e",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-05T11:30:00Z",
+    "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/d2680a879f448104/video.mp4",
+    "sha256": "d2680a879f448104066f79e896d05360ca331d13e6be24be6ae43a422f9e6307",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/578c3ff843615d3a/01.png",
+    "sha256": "578c3ff843615d3a85efe4ea41d91d8efc5db1483b591af63baf1b4924b6b92e",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/f36ee660b2b0f6ff/02.png",
+    "sha256": "f36ee660b2b0f6ff5eac2a3b4cef681e51f0e17b4c7bfb8477661abf13bfcc12",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/6c75c8cf227a5bc9/03.png",
+    "sha256": "6c75c8cf227a5bc9c5fc8dd9c58b9fc31e21c55e303f2761322b3c76a9955d69",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/8350b8bc92e8a586/04.png",
+    "sha256": "8350b8bc92e8a5862561def68c4b82606b5812d915b906c9c102974a46fb83f3",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/2fef676fc2c08dc2/05.png",
+    "sha256": "2fef676fc2c08dc2ccc7ac408f2645ea61781c95aec8655565d3d9ac9c23b1d6",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/0c3ef65effe202b5/06.png",
+    "sha256": "0c3ef65effe202b5b4b69784c9d17ece773718e31e29893f27bd4c108b08b991",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/55c3e97e3983a9a8/07.png",
+    "sha256": "55c3e97e3983a9a83f2f3204947d0b22dc5e9b4b17b00c671c944757e8f8a6c7",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/2747441720f3ba5e/08.png",
+    "sha256": "2747441720f3ba5e5956c9b39458b1c9d9943aa5fbbd39fdcfb696f74c695c73",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/ac37c243ca19101a/01.png",
+    "sha256": "ac37c243ca19101a383ab8c673b1b03f8a1c49550f2a8b523831db7ad43cc010",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/c475349e2fcd017d/02.png",
+    "sha256": "c475349e2fcd017d250e50da3141d53d8bb9bb809532c34e1b212ac7c3757598",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/09bc4175f4f4bd76/03.png",
+    "sha256": "09bc4175f4f4bd76adc252b728ce00bdc81112891e8978f01078b0360cfc7ac2",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/8a5d01c7dbcb93a0/04.png",
+    "sha256": "8a5d01c7dbcb93a0862e0780403b9e9deac1b33ec150d461aa545f99850fd7b5",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/e3a0d295bb082350/02.png",
+    "sha256": "e3a0d295bb0823502235a3b30f3d5e7fefac4d2a56dc60382b857b72bfb6a4a4",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/c475349e2fcd017d/03.png",
+    "sha256": "c475349e2fcd017d250e50da3141d53d8bb9bb809532c34e1b212ac7c3757598",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/09bc4175f4f4bd76/04.png",
+    "sha256": "09bc4175f4f4bd76adc252b728ce00bdc81112891e8978f01078b0360cfc7ac2",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/6eb601761ac46db5/05.png",
+    "sha256": "6eb601761ac46db5ed7a3c7188b7265399a43f70339fe87cc7df0b6609ac265b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/1522c65a6dc43bf8/06.png",
+    "sha256": "1522c65a6dc43bf8b30e671872d82d4f90d68fc82f5866f147801ffdfab062ce",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/8a5d01c7dbcb93a0/07.png",
+    "sha256": "8a5d01c7dbcb93a0862e0780403b9e9deac1b33ec150d461aa545f99850fd7b5",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "pilot-five-step-circle-narrated",
+    "publicPath": "m/13110ba17b4fd076/08.png",
+    "sha256": "13110ba17b4fd0767705aad0910ccc73353072f9edca710d9f8bdf7fe5a50cb3",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-06T11:30:00Z",
+    "purgeAfter": "2026-09-27T11:30:00.000Z"
+  }
+]
