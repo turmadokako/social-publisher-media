@@ -8,6 +8,38 @@
     "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/02a6f811aa78d5b9/02.png",
+    "sha256": "02a6f811aa78d5b9328743187f97e0ebed3bcc23a1b8f5fb369bb690bb5b0529",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/02a6f811aa78d5b9/04.png",
+    "sha256": "02a6f811aa78d5b9328743187f97e0ebed3bcc23a1b8f5fb369bb690bb5b0529",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/03ba392f20db9931/05.png",
+    "sha256": "03ba392f20db99318cbcfb5fdb0c7329445dbb6a2435ed8066e51256f4287b42",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/03ba392f20db9931/10.png",
+    "sha256": "03ba392f20db99318cbcfb5fdb0c7329445dbb6a2435ed8066e51256f4287b42",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-lola-small-shadow-narrated",
     "publicPath": "m/0522f74ba75891d2/02.png",
     "sha256": "0522f74ba75891d28eccf6d8441abd9f56a1aaffa91eb1bb05967e62a2c5abd6",
@@ -86,6 +118,38 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T11:30:00Z",
     "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/0e798dfc9ba49710/03.png",
+    "sha256": "0e798dfc9ba49710abd50cda728382cd59c40833cbdcdf7f90d1f92b0a18c79d",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/0e798dfc9ba49710/08.png",
+    "sha256": "0e798dfc9ba49710abd50cda728382cd59c40833cbdcdf7f90d1f92b0a18c79d",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/0f6585da14bc486f/08.png",
+    "sha256": "0f6585da14bc486fa6121793ff44daa1d5e9cb5ed323f9817b057a1af2a62847",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/106c94cc77e97d04/02.png",
+    "sha256": "106c94cc77e97d044bf2a4422b0a1d37339a4939567fd3153f6b7bba5953f64f",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-lola-small-shadow-narrated",
@@ -192,6 +256,14 @@
     "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/1f8a8fe6a5107cd1/06.png",
+    "sha256": "1f8a8fe6a5107cd163ee46539d240caab7be40c34e8f86a33a79985b81e530a0",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-running-drum-narrated",
     "publicPath": "m/1fc0d9c93f6316d1/video.mp4",
     "sha256": "1fc0d9c93f6316d1dcd7ae868cb9b5692f5cf9a6e6d709025c194218374f034d",
@@ -262,6 +334,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T11:30:00Z",
     "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/30093522c752fae3/02.png",
+    "sha256": "30093522c752fae376c865eecc284db149af395c3444fe6f45c44e24906f0dac",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-lola-small-shadow-narrated",
@@ -366,6 +446,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-08-30T21:00:00Z",
     "purgeAfter": "2026-09-20T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/4a1258d6bca95242/07.png",
+    "sha256": "4a1258d6bca95242aa444c1677ee18e6a6a48f2341973c7396ec2ec405b50887",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-ploft-tent-narrated",
@@ -600,12 +688,36 @@
     "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/7a43eeaff70ef1fd/04.png",
+    "sha256": "7a43eeaff70ef1fd00265484e7b28f9b8c7fefb1b3efed54411382b45330ef98",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/7a43eeaff70ef1fd/09.png",
+    "sha256": "7a43eeaff70ef1fd00265484e7b28f9b8c7fefb1b3efed54411382b45330ef98",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
     "publicPath": "m/7c0d8e841c962c49/06.png",
     "sha256": "7c0d8e841c962c49a6e1bbc2ae138201a6d5584bf418428685048b91ce37fbca",
     "mimeType": "image/png",
     "publishAt": "2026-08-30T21:00:00Z",
     "purgeAfter": "2026-09-20T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/7c4c395b7c5eda56/05.png",
+    "sha256": "7c4c395b7c5eda56fd112c89b4ab5d818bce0b5d2b2324a34670eab33170c04c",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-hollow-trunk-whistle-narrated",
@@ -664,6 +776,14 @@
     "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/814417ada4975de7/09.png",
+    "sha256": "814417ada4975de7d602c6bb8ba1177cfa6bc5a50d5665cfdcd417ab8d4b055d",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-flying-leaf-party-narrated",
     "publicPath": "m/822f99b56f2c76a5/04.png",
     "sha256": "822f99b56f2c76a5032f376daf3a68e4693403fcd2279aec7b2a710b36e517c8",
@@ -696,6 +816,14 @@
     "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/8394b5fc372029ba/01.png",
+    "sha256": "8394b5fc372029bad4728eab2fcde242330175086323099f50cba8b98729e234",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-ploft-tent-narrated",
     "publicPath": "m/83de6386bd77ebdc/video.mp4",
     "sha256": "83de6386bd77ebdcf4084ad3f8f212585d1ea6b14815a5f12f3d789a7a6f4daa",
@@ -718,6 +846,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T11:30:00Z",
     "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/89d65f5ab3292ae7/03.png",
+    "sha256": "89d65f5ab3292ae75407f4272ae640f8ea6a45e7fd3084084994933a1561c335",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-five-step-circle-narrated",
@@ -792,6 +928,14 @@
     "purgeAfter": "2026-09-26T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/92ad1c8a280d0349/04.png",
+    "sha256": "92ad1c8a280d03497a66224d32b9186105943b28cba4e3a291a35772d780db85",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-hollow-trunk-whistle-narrated",
     "publicPath": "m/93744993d14ad18c/02.png",
     "sha256": "93744993d14ad18cedcc9b44bb7f0634a58f4291b4caf94c582973e7c3cacebd",
@@ -830,6 +974,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-08-31T11:30:00Z",
     "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/9776488b3904b372/06.png",
+    "sha256": "9776488b3904b372443d32e212ec042741e0113c764da52c97adcdbb1d4984e0",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
@@ -1016,6 +1168,14 @@
     "purgeAfter": "2026-09-25T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/c01ad0d308b81fa0/05.png",
+    "sha256": "c01ad0d308b81fa06015c97aab395684e75e8a96ea6eab27ed077752fdfb5ec5",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-ploft-tent-narrated",
     "publicPath": "m/c1a4b50bf05e833f/04.png",
     "sha256": "c1a4b50bf05e833fea35b8d6786bef0e5b1d2d052ca0f9dc32818a442a5d2e4d",
@@ -1038,6 +1198,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-03T11:30:00Z",
     "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/c445bb0d2c289631/07.png",
+    "sha256": "c445bb0d2c289631445207dbf9321fdf1df760b6de715483e8343d0a38233c23",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-five-step-circle-narrated",
@@ -1208,6 +1376,22 @@
     "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/e56e103b47f0804e/01.png",
+    "sha256": "e56e103b47f0804e672f7d9fe6520fa8b4cc92af9f90160de8e42491243985c0",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/e56e103b47f0804e/key-image-portrait.png",
+    "sha256": "e56e103b47f0804e672f7d9fe6520fa8b4cc92af9f90160de8e42491243985c0",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-flying-leaf-party-narrated",
     "publicPath": "m/e621e43f9a85f482/08.png",
     "sha256": "e621e43f9a85f482a98528449fea0da5f431d3e602954f90d8231eb1526cd630",
@@ -1222,6 +1406,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T11:30:00Z",
     "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/ea702f08da854439/10.png",
+    "sha256": "ea702f08da85443966a5bf8713a60535c1fd0e287078493b5c76683b9642c404",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-hollow-trunk-whistle-narrated",
@@ -1288,6 +1480,14 @@
     "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/f33dddfdb014fdd3/03.png",
+    "sha256": "f33dddfdb014fdd347907d478915fb1631b132c771c7691da5e1b22325c72ad4",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-five-step-circle-narrated",
     "publicPath": "m/f36ee660b2b0f6ff/02.png",
     "sha256": "f36ee660b2b0f6ff5eac2a3b4cef681e51f0e17b4c7bfb8477661abf13bfcc12",
@@ -1302,6 +1502,22 @@
     "mimeType": "image/png",
     "publishAt": "2026-08-31T11:30:00Z",
     "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/f832f99ec4f35e12/video.mp4",
+    "sha256": "f832f99ec4f35e12867ef825ff83a62157ceac8f98b81a187cf70daddd1e2087",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
+    "publicPath": "m/f89b6b6a8fb6b491/key-image-square.png",
+    "sha256": "f89b6b6a8fb6b49145e5545e632bd8ecd4259a6c0d095fc8c904f6163b08776d",
+    "mimeType": "image/png",
+    "publishAt": "2026-08-31T21:00:00Z",
+    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-flying-leaf-party-narrated",
