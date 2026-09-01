@@ -56,6 +56,22 @@
     "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/05853318012cbaa7/01.png",
+    "sha256": "05853318012cbaa7682ba6b1d00566688ec69000ea4c846d9df68d80a661d8f9",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/05853318012cbaa7/key-image-portrait.png",
+    "sha256": "05853318012cbaa7682ba6b1d00566688ec69000ea4c846d9df68d80a661d8f9",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-running-drum-narrated",
     "publicPath": "m/064544143bfb0989/02.png",
     "sha256": "064544143bfb0989d85e6cc542aad7ab3ddd4255aab83c9f6b11817c6219f6b0",
@@ -152,6 +168,14 @@
     "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/108a53d0b699a224/02.png",
+    "sha256": "108a53d0b699a2242c17e8fd84c4e9dd58f7c8aa89298f456b27e9f8fef90d63",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-lola-small-shadow-narrated",
     "publicPath": "m/1154ab2777eabf73/04.png",
     "sha256": "1154ab2777eabf7364920878fdfd7f71d617db41afa5012a7ae697ba25892c09",
@@ -240,6 +264,22 @@
     "purgeAfter": "2026-09-25T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/1adf091f44455d78/03.png",
+    "sha256": "1adf091f44455d78f122b446efa799269210f0ce4ddeb8df25abe4031b71c973",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/1adf091f44455d78/08.png",
+    "sha256": "1adf091f44455d78f122b446efa799269210f0ce4ddeb8df25abe4031b71c973",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-running-drum-narrated",
     "publicPath": "m/1b9a616a2c21bb27/03.png",
     "sha256": "1b9a616a2c21bb27c585436e8aba6bfdc594b12add685efd362f52df1d9b1a49",
@@ -288,6 +328,14 @@
     "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/23c1bc1a9c7fed96/07.png",
+    "sha256": "23c1bc1a9c7fed968a7868d4cd6f8a40e458934cd40910de5d83651837dc8486",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
     "publicPath": "m/2483144bfaf24939/video.mp4",
     "sha256": "2483144bfaf249395dd7babe7b9bda9cf2c0731ec0b1256aa400c5b4c16b44ee",
@@ -312,6 +360,22 @@
     "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/296e88cc1805c842/06.png",
+    "sha256": "296e88cc1805c842d6ad5dafc22cd8ade4a734a5570fdcb449820a8e3d35d9be",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/297802f7426c028c/key-image-square.png",
+    "sha256": "297802f7426c028c9e7d84edc8c3882a59ca30eb1e3fcafc17b6556c868f7f12",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-running-drum-narrated",
     "publicPath": "m/2d13465487c2155c/06.png",
     "sha256": "2d13465487c2155c2ecc44f2515e10a7a046af0694c2c9b06d549a4be05db433",
@@ -326,6 +390,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-03T11:30:00Z",
     "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/2e2bc36fe876a947/07.png",
+    "sha256": "2e2bc36fe876a947a6392931989f5b5c61ff2b0bfabdbe96ce8768a309a0d8c9",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-five-step-circle-narrated",
@@ -352,12 +424,36 @@
     "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/35fe822ed0fba038/03.png",
+    "sha256": "35fe822ed0fba0384ef0973b75a542422ec0c680e7f270e43de70f2d2aab2bce",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-ploft-tent-narrated",
     "publicPath": "m/369dddcee74a936d/08.png",
     "sha256": "369dddcee74a936d3df0b6bf0e0703d04167aa38659988062c032f6445c24b6c",
     "mimeType": "image/png",
     "publishAt": "2026-09-05T11:30:00Z",
     "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/37658f2bc70cefd3/02.png",
+    "sha256": "37658f2bc70cefd3706fdbb2c04466e4bd6a5037d90a5bffa6dbf7cdc9b16b27",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/37658f2bc70cefd3/04.png",
+    "sha256": "37658f2bc70cefd3706fdbb2c04466e4bd6a5037d90a5bffa6dbf7cdc9b16b27",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
@@ -368,6 +464,22 @@
     "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/397a4f2e1f320de1/03.png",
+    "sha256": "397a4f2e1f320de1b2bc9cf3678dbd3ee6431937f339326d6ecc927daf61b7ab",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/397a4f2e1f320de1/08.png",
+    "sha256": "397a4f2e1f320de1b2bc9cf3678dbd3ee6431937f339326d6ecc927daf61b7ab",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-hollow-trunk-whistle-narrated",
     "publicPath": "m/39b54077da212e1c/03.png",
     "sha256": "39b54077da212e1c57b4320eb43171e69151245509f8add404a2462e0477ffaf",
@@ -376,12 +488,44 @@
     "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/3af44c34a543f595/02.png",
+    "sha256": "3af44c34a543f595de67c6fc1e26b47c9d252c6349a22ec6d0d8db6822b5aa9b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-hollow-trunk-whistle-narrated",
     "publicPath": "m/3b51b69a7cefee78/04.png",
     "sha256": "3b51b69a7cefee78275343eca50a3f0eefebca36be2b38130c8cc7187142b77b",
     "mimeType": "image/png",
     "publishAt": "2026-08-31T11:30:00Z",
     "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/3e10d64b57536aa9/04.png",
+    "sha256": "3e10d64b57536aa96688818045dd41c54012a5bb9e8231741e294f3030f11e9b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/3e10d64b57536aa9/09.png",
+    "sha256": "3e10d64b57536aa96688818045dd41c54012a5bb9e8231741e294f3030f11e9b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/3e9a5bfa26754fbc/key-image-square.png",
+    "sha256": "3e9a5bfa26754fbcb464c4683ac80b39144ef1610cc830f58e114aba5ec3eecb",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
@@ -398,6 +542,22 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-01T11:30:00Z",
     "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/4108ac6e85ac0bc7/04.png",
+    "sha256": "4108ac6e85ac0bc75a5c807d3854b68a5a25346b9d9dc4c86723653b4fcf609d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/4108ac6e85ac0bc7/09.png",
+    "sha256": "4108ac6e85ac0bc75a5c807d3854b68a5a25346b9d9dc4c86723653b4fcf609d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-lola-small-shadow-narrated",
@@ -440,12 +600,28 @@
     "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/465de4289167f22d/03.png",
+    "sha256": "465de4289167f22d094f7c60802f5e7f95e1f37db6ca3b73fd48cf8a2c27fe09",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
     "publicPath": "m/48d4fb3847f6b165/02.png",
     "sha256": "48d4fb3847f6b1650e732cc029c3be3f0128dcc866f702712637deeb11e1c3c1",
     "mimeType": "image/png",
     "publishAt": "2026-08-30T21:00:00Z",
     "purgeAfter": "2026-09-20T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/4983b75d3f913843/10.png",
+    "sha256": "4983b75d3f913843c6af2861df287f0e719c9c3da9847a4dd3f5316736470b62",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
@@ -486,6 +662,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T11:30:00Z",
     "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/53db93cea8346e7f/02.png",
+    "sha256": "53db93cea8346e7fed41a4a21a3b66a51d416a562aa3412ca93ef6894fa50caa",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-flying-leaf-party-narrated",
@@ -544,6 +728,14 @@
     "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/6007064186b983d5/09.png",
+    "sha256": "6007064186b983d5cea95c12522f03f3bc54855b2e495b25818f69c8be3025bf",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-ploft-tent-narrated",
     "publicPath": "m/601fb6dda6957793/05.png",
     "sha256": "601fb6dda69577935a4d8515b5eff52463f98c37c08cac8090793ce2bf0e70ef",
@@ -566,6 +758,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T11:30:00Z",
     "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/60cc2bdf11332292/video.mp4",
+    "sha256": "60cc2bdf11332292fd9ed7dcbc5b4aafbdbe3ce4ace6c950e7e4991af34c65f3",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-flying-leaf-party-narrated",
@@ -776,12 +976,36 @@
     "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/8068b5947bea8f67/03.png",
+    "sha256": "8068b5947bea8f67ae3422c2bffce3502a3f0ce1cba3a9f2f15467f3a6b768e7",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
     "publicPath": "m/814417ada4975de7/09.png",
     "sha256": "814417ada4975de7d602c6bb8ba1177cfa6bc5a50d5665cfdcd417ab8d4b055d",
     "mimeType": "image/png",
     "publishAt": "2026-08-31T21:00:00Z",
     "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/816d6a012bab10ed/05.png",
+    "sha256": "816d6a012bab10ed420b882978e5effb0efc2bcb804a014eb5935eb33131324f",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/816d6a012bab10ed/10.png",
+    "sha256": "816d6a012bab10ed420b882978e5effb0efc2bcb804a014eb5935eb33131324f",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-flying-leaf-party-narrated",
@@ -840,6 +1064,14 @@
     "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/85ae9538b4405248/05.png",
+    "sha256": "85ae9538b44052488554ff160583f124a6dbf4079b1736391fe7f84ee69673f9",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-ploft-tent-narrated",
     "publicPath": "m/8791f97fb233d013/04.png",
     "sha256": "8791f97fb233d0131ea7b712a3c1978884873065a1cd2c80eddb330321fb370b",
@@ -870,6 +1102,22 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T11:30:00Z",
     "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/8bba52aedc00b828/01.png",
+    "sha256": "8bba52aedc00b828185ffc84fea9f8446f2352a3162592178c6a73d4c1f46e4d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/8c7b55c7d129c837/08.png",
+    "sha256": "8c7b55c7d129c83701fb30e665d9344a0dc218d04a5293b8385ed37500acaac4",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-running-drum-narrated",
@@ -936,6 +1184,30 @@
     "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/9322fa2f4bb8e1ec/05.png",
+    "sha256": "9322fa2f4bb8e1eceed03a2aa74677252e0e622598e2c7b601ccc8034ae345f5",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/9346aa119be652a6/02.png",
+    "sha256": "9346aa119be652a6576430ac60faf59466a78d88bc0a1e94f9a94a33ec2c3cf4",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/9346aa119be652a6/04.png",
+    "sha256": "9346aa119be652a6576430ac60faf59466a78d88bc0a1e94f9a94a33ec2c3cf4",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-hollow-trunk-whistle-narrated",
     "publicPath": "m/93744993d14ad18c/02.png",
     "sha256": "93744993d14ad18cedcc9b44bb7f0634a58f4291b4caf94c582973e7c3cacebd",
@@ -974,6 +1246,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-08-31T11:30:00Z",
     "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/97245f0421092e37/06.png",
+    "sha256": "97245f0421092e371fd943876a1f69cba7e5c7ddb8614c7e93af471042fe55ae",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
@@ -1024,6 +1304,22 @@
     "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/9c11f7da6ea7d7db/04.png",
+    "sha256": "9c11f7da6ea7d7dbd090b549e54c4f5a4b9e51da5946e9d87b52879577340b6d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/9e6220f49e36e99e/03.png",
+    "sha256": "9e6220f49e36e99e9fe757d389c5ece666e139804dae38ccef74721f33edbdd1",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-hollow-trunk-whistle-narrated",
     "publicPath": "m/9e89442385b8cf9d/video.mp4",
     "sha256": "9e89442385b8cf9dad0ef5bbe51b8193fdaa9a29bd233f9fac64f27f33fe5657",
@@ -1072,6 +1368,14 @@
     "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/a50469b97d0b6761/09.png",
+    "sha256": "a50469b97d0b6761f16cae6ddd83787a3446dffe08c00670495c978751d2e4ca",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
     "publicPath": "m/a52a412f1aeff5ab/04.png",
     "sha256": "a52a412f1aeff5ab806538bb563c3920d88746fb124ebc351fbc7cbb7044eb24",
@@ -1094,6 +1398,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T11:30:00Z",
     "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/aa5ee8a668aeca91/10.png",
+    "sha256": "aa5ee8a668aeca91c1eaf5bdab20b7c68e93187c723fa281bfd95bacae344304",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
@@ -1152,6 +1464,14 @@
     "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/aff7933f21f79f23/02.png",
+    "sha256": "aff7933f21f79f23196c2d913065879c6b1d85f0a441605de6f834607dbb641f",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-lola-small-shadow-narrated",
     "publicPath": "m/b0f72b26cd9bb496/02.png",
     "sha256": "b0f72b26cd9bb4963d2a09334dc4fe0c641fb30eac873000b22751a6f9a424c8",
@@ -1166,6 +1486,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-04T11:30:00Z",
     "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/b4ce4c8d9adc00ed/07.png",
+    "sha256": "b4ce4c8d9adc00edaee63614f9c6aaffcd755d784a58329173bbd60ddc70a76f",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
@@ -1200,6 +1528,22 @@
     "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/c3ca0874c0857831/05.png",
+    "sha256": "c3ca0874c0857831529a8e87ef1158363061101f91a62b71726b2a5d7fb30067",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/c3ca0874c0857831/10.png",
+    "sha256": "c3ca0874c0857831529a8e87ef1158363061101f91a62b71726b2a5d7fb30067",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
     "publicPath": "m/c445bb0d2c289631/07.png",
     "sha256": "c445bb0d2c289631445207dbf9321fdf1df760b6de715483e8343d0a38233c23",
@@ -1232,6 +1576,22 @@
     "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/c8b4b5dcc72148ea/08.png",
+    "sha256": "c8b4b5dcc72148eabb26406c5bd7705979cf8375ee6d89dbf5f2533e1ab6f22a",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/cc8090f470926f34/06.png",
+    "sha256": "cc8090f470926f34d6a164ffca933b105b7c0030c96675ccead4dc8e630f4288",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-running-drum-narrated",
     "publicPath": "m/ccdb70c63c9e4c66/08.png",
     "sha256": "ccdb70c63c9e4c6668305bc673de4527a4c53b3fae7f5dc375553a3f0d9f9975",
@@ -1240,12 +1600,44 @@
     "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/cd2309465b2c48e8/01.png",
+    "sha256": "cd2309465b2c48e8f35b3294308fdc7eca397f92c81be4ca37a67811b581e718",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/cd2309465b2c48e8/key-image-portrait.png",
+    "sha256": "cd2309465b2c48e8f35b3294308fdc7eca397f92c81be4ca37a67811b581e718",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/cd87d74b6b4be6bf/05.png",
+    "sha256": "cd87d74b6b4be6bfc99970640133ee17bdd70c63762175e12e85d72325bd78c0",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-lola-small-shadow-narrated",
     "publicPath": "m/cdf07f46b6c53001/08.png",
     "sha256": "cdf07f46b6c5300100e1b1f9d3c1847a2d73f6c93e0c0cfded10edfe7e8af6fb",
     "mimeType": "image/png",
     "publishAt": "2026-09-03T11:30:00Z",
     "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/d0d8ee80643d4834/01.png",
+    "sha256": "d0d8ee80643d4834fe4fb1e31785b792cbc766efb85c88dbc42436135c18d0dc",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-ploft-tent-narrated",
@@ -1272,12 +1664,28 @@
     "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/d32dc0039d5015d9/video.mp4",
+    "sha256": "d32dc0039d5015d9004e2177ed6a4750328ad692b9fe33e6f2018c5bad326d00",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-lola-small-shadow-narrated",
     "publicPath": "m/d37ad09fe5266674/07.png",
     "sha256": "d37ad09fe52666747c739666daf15486f9fef46d414d0bdd16e0c1053f0df9ff",
     "mimeType": "image/png",
     "publishAt": "2026-09-03T11:30:00Z",
     "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/d425047cd3348f7e/05.png",
+    "sha256": "d425047cd3348f7e900fa600728e24b1aecaa3c122947002f607ce5ed1dac731",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-ploft-tent-narrated",
@@ -1336,6 +1744,14 @@
     "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
+    "publicPath": "m/dfe60d8b1448e266/04.png",
+    "sha256": "dfe60d8b1448e266c48c69671c04c4dd2a48f56cb3cbf29981af7263f5f92df2",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-02T21:00:00Z",
+    "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-blue-sneeze-drawing-narrated",
     "publicPath": "m/e0f21e74c2cb402f/05.png",
     "sha256": "e0f21e74c2cb402fee8279e8c5eddd896b713d3062ebc0bc38277e14872396cc",
@@ -1350,6 +1766,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-08-31T11:30:00Z",
     "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/e30021bd8bc05779/07.png",
+    "sha256": "e30021bd8bc057798269de76d55cdc28f9dfcdca181d9c0651deda716dfac01e",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-lola-small-shadow-narrated",
@@ -1518,6 +1942,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-08-31T21:00:00Z",
     "purgeAfter": "2026-09-21T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
+    "publicPath": "m/f8ab5f29caaa5b71/06.png",
+    "sha256": "f8ab5f29caaa5b71ae20d524d44f20093d9c227772526c531eda45fb38e8bd5d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-01T21:00:00Z",
+    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-flying-leaf-party-narrated",
