@@ -1,5 +1,13 @@
 [
   {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/002d6afd5801072c/09.png",
+    "sha256": "002d6afd5801072cbebf317931a7fbe10182d690fa5fdeb9cad18371cf92d059",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
     "publicPath": "m/008f770fece84377/02.png",
     "sha256": "008f770fece843771f243824ee9eac9d50ee9864ac77a1e956b6a191aa0f1452",
@@ -80,6 +88,14 @@
     "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/0713f610dbc08516/05.png",
+    "sha256": "0713f610dbc08516293a83c92970f0258523179f289020c7b031f2398b260c19",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-blue-sneeze-drawing-narrated",
     "publicPath": "m/09471a3eeee3fa8a/video.mp4",
     "sha256": "09471a3eeee3fa8a011271dc4df56c1a04d45dd4683443e9546f5162e3f6b761",
@@ -104,6 +120,30 @@
     "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/09f42e701c627dc3/07.png",
+    "sha256": "09f42e701c627dc3a59fcbe7a023b7ba02a0262f5d8027ef8f21cab72f5625d8",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/0a479350c969ce96/04.png",
+    "sha256": "0a479350c969ce96924133ea7a4db6cc78806915de715c55af01f1bec2084e20",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/0a479350c969ce96/09.png",
+    "sha256": "0a479350c969ce96924133ea7a4db6cc78806915de715c55af01f1bec2084e20",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-hollow-trunk-whistle-narrated",
     "publicPath": "m/0a53258a70e75e07/02.png",
     "sha256": "0a53258a70e75e07b0de4ecb28ff095bae78a1da2acb74c7173cd089c3412c44",
@@ -118,6 +158,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-08-31T11:30:00Z",
     "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/0bc4fa808ed648c1/03.png",
+    "sha256": "0bc4fa808ed648c14ff47309d199b857bdf793b0d2812c09d70f275921486a81",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-five-step-circle-narrated",
@@ -248,6 +296,22 @@
     "purgeAfter": "2026-09-25T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/16d70c11078c7e22/05.png",
+    "sha256": "16d70c11078c7e22b9bae2566fa43578fe677e614dc7a771d7794f9c81469cb2",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/16d70c11078c7e22/10.png",
+    "sha256": "16d70c11078c7e22b9bae2566fa43578fe677e614dc7a771d7794f9c81469cb2",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-running-drum-narrated",
     "publicPath": "m/179859c1a644a007/05.png",
     "sha256": "179859c1a644a007c3f6dfa139be8369ce79fd58bfebc3b214d89023546e0ebb",
@@ -262,6 +326,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-04T11:30:00Z",
     "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/18ac57ba70e7960e/03.png",
+    "sha256": "18ac57ba70e7960e56300ff5736cf2cf6411202054cbf7749694d88227be67d1",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
@@ -318,6 +390,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-03T11:30:00Z",
     "purgeAfter": "2026-09-24T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/2323fd95818d7271/10.png",
+    "sha256": "2323fd95818d727146e1a2b4bbb65bab8b2d437fee30ae28416f4911525aea93",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-blue-sneeze-drawing-narrated",
@@ -424,6 +504,14 @@
     "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/35096a5623aea136/06.png",
+    "sha256": "35096a5623aea1362213a1ad8c1335a6f57b46795cd3187532a8e89f334825b5",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
     "publicPath": "m/35fe822ed0fba038/03.png",
     "sha256": "35fe822ed0fba0384ef0973b75a542422ec0c680e7f270e43de70f2d2aab2bce",
@@ -438,6 +526,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T11:30:00Z",
     "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/36b217ccf4d7f4e1/05.png",
+    "sha256": "36b217ccf4d7f4e1f97a7fb7580038588ae24d8fa8a2c0fa6442fd3050bf3003",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
@@ -584,6 +680,14 @@
     "purgeAfter": "2026-09-25T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/415d8ee46289db39/04.png",
+    "sha256": "415d8ee46289db393f7bd30ad2a8d38df8926f2b7490ca0dac9d03856fa77f98",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-lola-small-shadow-narrated",
     "publicPath": "m/421ea8810475914c/03.png",
     "sha256": "421ea8810475914c95a1be831b18dfe5fa5f144b721d5476c95eb2a4e5441c8d",
@@ -616,6 +720,14 @@
     "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/4968634ff69445e8/08.png",
+    "sha256": "4968634ff69445e8038630d606d8222af04a5a5a532f7b9bacc46e57ed7e9cc4",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
     "publicPath": "m/4983b75d3f913843/10.png",
     "sha256": "4983b75d3f913843c6af2861df287f0e719c9c3da9847a4dd3f5316736470b62",
@@ -640,6 +752,14 @@
     "purgeAfter": "2026-09-26T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/4c373d2fd11950c4/key-image-square.png",
+    "sha256": "4c373d2fd11950c41018c49cec10fa228588fbc39c4840ae7f9c5136e5ca767f",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-flying-leaf-party-narrated",
     "publicPath": "m/4cfb5f561cb957f9/07.png",
     "sha256": "4cfb5f561cb957f9072a8e89c857805a3d82774a7cfd153e129dba9c9e4b9bb2",
@@ -654,6 +774,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-01T11:30:00Z",
     "purgeAfter": "2026-09-22T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/4e84237283e5eca4/05.png",
+    "sha256": "4e84237283e5eca4b99dc6007efc68106e815463877118bc1c5bcc1a35e3490f",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-ploft-tent-narrated",
@@ -702,6 +830,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T11:30:00Z",
     "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/5cb3eef02f43a64f/video.mp4",
+    "sha256": "5cb3eef02f43a64f13c921bdba8634d913dd34ebaa41e0b8fa23c03f1f080eef",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-flying-leaf-party-narrated",
@@ -808,6 +944,14 @@
     "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/6c59d89eb1deec98/07.png",
+    "sha256": "6c59d89eb1deec98bf980ae40be5fb73dbafbc402115506d65e34086a1ccd328",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-five-step-circle-narrated",
     "publicPath": "m/6c75c8cf227a5bc9/03.png",
     "sha256": "6c75c8cf227a5bc9c5fc8dd9c58b9fc31e21c55e303f2761322b3c76a9955d69",
@@ -830,6 +974,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T11:30:00Z",
     "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/70a0d5c24dfd80c4/06.png",
+    "sha256": "70a0d5c24dfd80c4f052b0077649ff26a33391f2f0968a4dea4637ba036e8c8d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
@@ -904,6 +1056,30 @@
     "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/7bf00cc7d3f5ee4e/06.png",
+    "sha256": "7bf00cc7d3f5ee4ef144d95e646a0f898084ba5b53a86f1a0d704bb4afd1daf5",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/7bfbc84c491acd61/03.png",
+    "sha256": "7bfbc84c491acd616a7fe0e056bc4a30b59047518351a5f2ffcb2adbad5b6e59",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/7bfbc84c491acd61/08.png",
+    "sha256": "7bfbc84c491acd616a7fe0e056bc4a30b59047518351a5f2ffcb2adbad5b6e59",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
     "publicPath": "m/7c0d8e841c962c49/06.png",
     "sha256": "7c0d8e841c962c49a6e1bbc2ae138201a6d5584bf418428685048b91ce37fbca",
@@ -926,6 +1102,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-08-31T11:30:00Z",
     "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/7cb5912c6dc003ad/07.png",
+    "sha256": "7cb5912c6dc003ad29adca4078ec315cdc14cacf5620fea8d716fa1fea07d2ce",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
@@ -1048,12 +1232,36 @@
     "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/83b7c8a2216edc25/02.png",
+    "sha256": "83b7c8a2216edc25336ffce5242cea01fbc8a2c6ab0f87c74fd4fcceb1df9649",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-ploft-tent-narrated",
     "publicPath": "m/83de6386bd77ebdc/video.mp4",
     "sha256": "83de6386bd77ebdcf4084ad3f8f212585d1ea6b14815a5f12f3d789a7a6f4daa",
     "mimeType": "video/mp4",
     "publishAt": "2026-09-05T11:30:00Z",
     "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/8475dac9975b8173/01.png",
+    "sha256": "8475dac9975b817363ee9e65274cb2735cfb4de77b27b197269c9c36aed60627",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/8475dac9975b8173/key-image-portrait.png",
+    "sha256": "8475dac9975b817363ee9e65274cb2735cfb4de77b27b197269c9c36aed60627",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-30-o-presente-que-voou",
@@ -1078,6 +1286,22 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T11:30:00Z",
     "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/89a43543b8a0c3f1/02.png",
+    "sha256": "89a43543b8a0c3f1a0ca2c8e05dfd7ae82466f7f2196870793d13387e99aa96c",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/89a43543b8a0c3f1/04.png",
+    "sha256": "89a43543b8a0c3f1a0ca2c8e05dfd7ae82466f7f2196870793d13387e99aa96c",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
@@ -1150,6 +1374,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T11:30:00Z",
     "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/902d811a8dbf3f01/video.mp4",
+    "sha256": "902d811a8dbf3f014672ef9280ca9b85295c06e892ea417ba96b7afbea12b64f",
+    "mimeType": "video/mp4",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-blue-sneeze-drawing-narrated",
@@ -1344,6 +1576,14 @@
     "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/a0ca74ec6a8e32af/06.png",
+    "sha256": "a0ca74ec6a8e32af34d958cb1d268b8730594c2033a77c47314945868e6ea98b",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-running-drum-narrated",
     "publicPath": "m/a252b90d73b2f4a6/02.png",
     "sha256": "a252b90d73b2f4a6f878315d99aa634e8ac26cebea510804ab9bfee9e9ef338b",
@@ -1398,6 +1638,38 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T11:30:00Z",
     "purgeAfter": "2026-09-26T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/a770d164b0d8f91c/01.png",
+    "sha256": "a770d164b0d8f91ca3f228f5cacd0b864e24e3bec92f40af88d9bb07aca28ee9",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/a8543ba9624c008f/01.png",
+    "sha256": "a8543ba9624c008f2160c8b4e6d14c996e4ddf18c4f3e78a8ca1e7c9d287d5cb",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/a8543ba9624c008f/key-image-portrait.png",
+    "sha256": "a8543ba9624c008f2160c8b4e6d14c996e4ddf18c4f3e78a8ca1e7c9d287d5cb",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/aa1931f584d25252/key-image-square.png",
+    "sha256": "aa1931f584d252529066a08d24299a2b4189cc5f495dfe225ef14bd84d61a231",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
@@ -1480,6 +1752,46 @@
     "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/b1498fb9ba9a3afd/05.png",
+    "sha256": "b1498fb9ba9a3afdef4c18dfe3da147f7fb6c929f864f317c9374beab5969d93",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/b27fe7b42403d4a1/02.png",
+    "sha256": "b27fe7b42403d4a10536c8176f8ea450d0151fc2dc3f4ce0a748872c2df66e63",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/b3aec634af3f61e0/02.png",
+    "sha256": "b3aec634af3f61e0651ea136f66b1c1b50ed3b7667cce9c7801a3acfe3b2c6b2",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/b3aec634af3f61e0/04.png",
+    "sha256": "b3aec634af3f61e0651ea136f66b1c1b50ed3b7667cce9c7801a3acfe3b2c6b2",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/b3c034fde9f11c39/03.png",
+    "sha256": "b3c034fde9f11c39b16bdb568a67d65755c20216c9f8de75c926907b248351b4",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-flying-leaf-party-narrated",
     "publicPath": "m/b43f1e32cd12e7a1/02.png",
     "sha256": "b43f1e32cd12e7a118dcc470507f2434d8c4aa7b4322bc8eee1a8ae2ef1cf99f",
@@ -1494,6 +1806,38 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T21:00:00Z",
     "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/b7cdda31e433c426/05.png",
+    "sha256": "b7cdda31e433c426c39f34882bb18ab9ca55ceac469e40573ce5aca8d4bfaacf",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/b7cdda31e433c426/10.png",
+    "sha256": "b7cdda31e433c426c39f34882bb18ab9ca55ceac469e40573ce5aca8d4bfaacf",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/bcb4141572abae4f/02.png",
+    "sha256": "bcb4141572abae4f6d02600a58b68c7446198586791ce91a9a85c09cfcb86353",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/bcd162d477244945/03.png",
+    "sha256": "bcd162d477244945b3c7c9c72df6949c8c3c928986737eaab41cfb02f2c13440",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
@@ -1576,12 +1920,44 @@
     "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/c5b4d636fe4cbbbd/04.png",
+    "sha256": "c5b4d636fe4cbbbd82dd592f9d57b0f7ebfe4bd0bfdf9ca814cef27dc04b96a7",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/c7ddaba5cef1faf4/01.png",
+    "sha256": "c7ddaba5cef1faf4f1986ca97675a8f729fc86270d9f75c24dc9f69d64d3dfc0",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
     "publicPath": "m/c8b4b5dcc72148ea/08.png",
     "sha256": "c8b4b5dcc72148eabb26406c5bd7705979cf8375ee6d89dbf5f2533e1ab6f22a",
     "mimeType": "image/png",
     "publishAt": "2026-09-02T21:00:00Z",
     "purgeAfter": "2026-09-23T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/ca2066e867e9975a/03.png",
+    "sha256": "ca2066e867e9975a6be77d2cde56d5a36ed45adfce46e3aa3ab2a94f1d98da5c",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/ca2066e867e9975a/08.png",
+    "sha256": "ca2066e867e9975a6be77d2cde56d5a36ed45adfce46e3aa3ab2a94f1d98da5c",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
@@ -1728,12 +2104,36 @@
     "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/dc77340f21a33274/09.png",
+    "sha256": "dc77340f21a3327463c949493f62aeccdf5fd2ff054acb510e13694512ac8058",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
     "campaignId": "pilot-flying-leaf-party-narrated",
     "publicPath": "m/dcf18ffbe5c1d89e/02.png",
     "sha256": "dcf18ffbe5c1d89eb09a8010b9110c6c56d963f69cca927eab677933ac7bcf1f",
     "mimeType": "image/png",
     "publishAt": "2026-09-04T11:30:00Z",
     "purgeAfter": "2026-09-25T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/dd12b4e166fb0cb8/04.png",
+    "sha256": "dd12b4e166fb0cb8790c3ce4c88306b7757fa9779fe0fd208ddfa65e4450afda",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/dd12b4e166fb0cb8/09.png",
+    "sha256": "dd12b4e166fb0cb8790c3ce4c88306b7757fa9779fe0fd208ddfa65e4450afda",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-lola-small-shadow-narrated",
@@ -1766,6 +2166,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-08-31T11:30:00Z",
     "purgeAfter": "2026-09-21T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/e2aec0df8d4c0191/10.png",
+    "sha256": "e2aec0df8d4c0191bb1ce72a903f122fcf4cebfd6346bc6ae686ef042bd5ad56",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
@@ -1830,6 +2238,22 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T11:30:00Z",
     "purgeAfter": "2026-09-23T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/e7896a3590e728f0/08.png",
+    "sha256": "e7896a3590e728f006c25ef2915964756b26bdd867e1794cce58d137ea7bdf1d",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-03-o-desenho-escondido",
+    "publicPath": "m/e7df31fdcba8ab59/07.png",
+    "sha256": "e7df31fdcba8ab59c723ab7013e0e43d572d6e90bea02fabc0c9301c79701035",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-03T21:00:00Z",
+    "purgeAfter": "2026-09-24T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
@@ -1918,6 +2342,14 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T11:30:00Z",
     "purgeAfter": "2026-09-27T11:30:00.000Z"
+  },
+  {
+    "campaignId": "season-01-2026-09-04-historia-006",
+    "publicPath": "m/f57f49e1b89b0d2a/02.png",
+    "sha256": "f57f49e1b89b0d2ab9f4a676e3753584cfe6bf2c91898a32a13ffeca2f7eabcb",
+    "mimeType": "image/png",
+    "publishAt": "2026-09-04T21:00:00Z",
+    "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-hollow-trunk-whistle-narrated",
