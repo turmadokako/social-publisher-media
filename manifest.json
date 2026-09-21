@@ -16,14 +16,6 @@
     "purgeAfter": "2026-10-04T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/008f770fece84377/02.png",
-    "sha256": "008f770fece843771f243824ee9eac9d50ee9864ac77a1e956b6a191aa0f1452",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-10-historia-012",
     "publicPath": "m/011ce6903f3b5a12/03.png",
     "sha256": "011ce6903f3b5a12738f7c27ba9f0a0c8ea9b81998b5725312a63eb4263d9a67",
@@ -206,22 +198,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-04T21:00:00Z",
     "purgeAfter": "2026-09-25T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/0a53258a70e75e07/02.png",
-    "sha256": "0a53258a70e75e07b0de4ecb28ff095bae78a1da2acb74c7173cd089c3412c44",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/0a53258a70e75e07/06.png",
-    "sha256": "0a53258a70e75e07b0de4ecb28ff095bae78a1da2acb74c7173cd089c3412c44",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-05-historia-007",
@@ -470,22 +446,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/164af74aaa7a333f/02.png",
-    "sha256": "164af74aaa7a333fea9465be9981fc8dee628bc57ba224e44f7adb29f6d32907",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/164af74aaa7a333f/04.png",
-    "sha256": "164af74aaa7a333fea9465be9981fc8dee628bc57ba224e44f7adb29f6d32907",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-flying-leaf-party-narrated",
@@ -742,14 +702,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T21:00:00Z",
     "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/2483144bfaf24939/video.mp4",
-    "sha256": "2483144bfaf249395dd7babe7b9bda9cf2c0731ec0b1256aa400c5b4c16b44ee",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-05-historia-007",
@@ -1144,14 +1096,6 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/391326e5d95b0064/01.png",
-    "sha256": "391326e5d95b0064fe9bb7007ab1e3a465d6560712c786736f6e3f83f36d3276",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
     "publicPath": "m/397a4f2e1f320de1/03.png",
     "sha256": "397a4f2e1f320de1b2bc9cf3678dbd3ee6431937f339326d6ecc927daf61b7ab",
@@ -1166,14 +1110,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T21:00:00Z",
     "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/39b54077da212e1c/03.png",
-    "sha256": "39b54077da212e1c57b4320eb43171e69151245509f8add404a2462e0477ffaf",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-07-historia-009",
@@ -1222,14 +1158,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-10T21:00:00Z",
     "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/3b51b69a7cefee78/04.png",
-    "sha256": "3b51b69a7cefee78275343eca50a3f0eefebca36be2b38130c8cc7187142b77b",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "season-02-day-002",
@@ -1286,14 +1214,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-01T21:00:00Z",
     "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/3f5e835ecd1af77c/09.png",
-    "sha256": "3f5e835ecd1af77c3f29b5f766b1a178aab65b9337da90faa7a805484ed923de",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-003",
@@ -1400,14 +1320,6 @@
     "purgeAfter": "2026-09-29T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/44098eb209e49803/03.png",
-    "sha256": "44098eb209e49803f25c92b01781b39c7bea3d035b5c2a119affab772a440947",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-003",
     "publicPath": "m/455301297a8165fd/04.png",
     "sha256": "455301297a8165fdd21a22d25580b4d74a87eb58a39319a1fc539d487205a6ec",
@@ -1454,14 +1366,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/48d4fb3847f6b165/02.png",
-    "sha256": "48d4fb3847f6b1650e732cc029c3be3f0128dcc866f702712637deeb11e1c3c1",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-03-o-desenho-escondido",
@@ -1864,14 +1768,6 @@
     "purgeAfter": "2026-10-03T19:00:00.000Z"
   },
   {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/5f49051efa676c8f/02.png",
-    "sha256": "5f49051efa676c8fcfd3e1c21b562571314ce1cb42278d83a4c3385617910bad",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
-  },
-  {
     "campaignId": "pilot-running-drum-narrated",
     "publicPath": "m/5fd156b6216bdf73/04.png",
     "sha256": "5fd156b6216bdf736c6de12e99012716588e2b267f6fbbd38dbdd0dba7b8bbe5",
@@ -1984,14 +1880,6 @@
     "purgeAfter": "2026-09-29T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/62f258ed456d640d/01.png",
-    "sha256": "62f258ed456d640dbff69644616119c59fd3d27425bd37d55cfdfa600f1f44a8",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/65679f03188c6839/09.png",
     "sha256": "65679f03188c6839e5873eef1dcf830174100ec50360c368c38e650b8f9ed49d",
@@ -2054,22 +1942,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-11T19:00:00Z",
     "purgeAfter": "2026-10-02T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/6a40849b0c5f3705/05.png",
-    "sha256": "6a40849b0c5f3705dd4c905cf182f07ebf7edb697ec198a28f1fadcc22c0c2f8",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/6a40849b0c5f3705/10.png",
-    "sha256": "6a40849b0c5f3705dd4c905cf182f07ebf7edb697ec198a28f1fadcc22c0c2f8",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-07-historia-009",
@@ -2192,28 +2064,12 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/74042d0441c280d7/05.png",
-    "sha256": "74042d0441c280d7b9327fc42073b7f5e7491ee53b7b85fa29180bbe0a69f1a4",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-05-historia-007",
     "publicPath": "m/740978601f2dcb96/06.png",
     "sha256": "740978601f2dcb9635dab5af6efb799e7eeb136d7a2ded41683c70a250fb29a4",
     "mimeType": "image/png",
     "publishAt": "2026-09-05T21:00:00Z",
     "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/742064248525f760/10.png",
-    "sha256": "742064248525f760f3be94cea4e0e68d03d1c3652dc6072124e8e1e5ec6bea0b",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-ploft-tent-narrated",
@@ -2278,14 +2134,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/7849b705d4c6d907/03.png",
-    "sha256": "7849b705d4c6d907b6a11cdfad94be16bf02da8dfb500d9329b2777df9c16a14",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "pilot-ploft-tent-narrated",
@@ -2416,28 +2264,12 @@
     "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/7c0d8e841c962c49/06.png",
-    "sha256": "7c0d8e841c962c49a6e1bbc2ae138201a6d5584bf418428685048b91ce37fbca",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
     "publicPath": "m/7c4c395b7c5eda56/05.png",
     "sha256": "7c4c395b7c5eda56fd112c89b4ab5d818bce0b5d2b2324a34670eab33170c04c",
     "mimeType": "image/png",
     "publishAt": "2026-08-31T21:00:00Z",
     "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/7c935e6dab07b1a4/05.png",
-    "sha256": "7c935e6dab07b1a40ebed67d9e8f7c01f83bc98988f085f1a40ec9f470b4ba1c",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-04-historia-006",
@@ -2462,14 +2294,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-08T21:00:00Z",
     "purgeAfter": "2026-09-29T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/7dfc8254b77855b3/07.png",
-    "sha256": "7dfc8254b77855b3266c4dd4899eecced297e4179ac14221556ae520e96bc6f8",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-002",
@@ -2502,22 +2326,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-08T13:00:00Z",
     "purgeAfter": "2026-09-29T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/7f042077a0cd2fb2/01.png",
-    "sha256": "7f042077a0cd2fb22f49f7ea5b148f57da47b44ea066039f22c2ec7210f35216",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/7f042077a0cd2fb2/key-image-portrait.png",
-    "sha256": "7f042077a0cd2fb22f49f7ea5b148f57da47b44ea066039f22c2ec7210f35216",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-flying-leaf-party-narrated",
@@ -2702,14 +2510,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-10T21:00:00Z",
     "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/85048fa4c6599045/08.png",
-    "sha256": "85048fa4c65990455aeb7752320df48d03a489f4d2260693ace3da4f214109d5",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
@@ -3016,14 +2816,6 @@
     "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/93744993d14ad18c/02.png",
-    "sha256": "93744993d14ad18cedcc9b44bb7f0634a58f4291b4caf94c582973e7c3cacebd",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-001",
     "publicPath": "m/938246342496cc46/06.png",
     "sha256": "938246342496cc462a80a85de26a9df42031aedbbdc8c24cfe5bccce9c978066",
@@ -3040,14 +2832,6 @@
     "purgeAfter": "2026-09-28T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/94986d9d7a2bc24a/08.png",
-    "sha256": "94986d9d7a2bc24ab0d80563e363a8b5ec2f6a5fdeec7318a112dd492d19a6a6",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-005",
     "publicPath": "m/94e86ce93c13d21a/03.jpg",
     "sha256": "94e86ce93c13d21aa64e7e993acf99ed21ed51c3598901e1e7e1c40bfb5192c1",
@@ -3062,30 +2846,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-09T21:00:00Z",
     "purgeAfter": "2026-09-30T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/9578cddc8e6af9bc/04.png",
-    "sha256": "9578cddc8e6af9bc45677c4e56252e417f295e24e85cfbc70232133b4783562d",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/9578cddc8e6af9bc/07.png",
-    "sha256": "9578cddc8e6af9bc45677c4e56252e417f295e24e85cfbc70232133b4783562d",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/9646fd386745880d/06.png",
-    "sha256": "9646fd386745880d50012312e4f834d89155f87b77cd673a7d7cc126abeb98e4",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-06-historia-008",
@@ -3144,44 +2904,12 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/98603ccd810ceb88/06.png",
-    "sha256": "98603ccd810ceb88e1ee5ed5a9e4dfc2e43e18cd561fd21167778fd6bba91c3b",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
     "campaignId": "pilot-flying-leaf-party-narrated",
     "publicPath": "m/9889b3c4685d70cc/08.png",
     "sha256": "9889b3c4685d70ccbff60bcec9f73f59537c8fad7c7a4579761e86f50a41e97e",
     "mimeType": "image/png",
     "publishAt": "2026-09-04T11:30:00Z",
     "purgeAfter": "2026-09-25T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/9906814a19e4528d/04.png",
-    "sha256": "9906814a19e4528d060189a2210682b2b892cda2c43e34bc7bff4714adb8af3a",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/9906814a19e4528d/09.png",
-    "sha256": "9906814a19e4528d060189a2210682b2b892cda2c43e34bc7bff4714adb8af3a",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/9948b373251be294/07.png",
-    "sha256": "9948b373251be294da85716cef8e5501e05bbc1542487a9dbfb717f3049eb70e",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "season-02-day-005",
@@ -3256,30 +2984,6 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/9e89442385b8cf9d/video.mp4",
-    "sha256": "9e89442385b8cf9dad0ef5bbe51b8193fdaa9a29bd233f9fac64f27f33fe5657",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/9ea32835a5056fd5/03.png",
-    "sha256": "9ea32835a5056fd596190c2cb56dd377c94ac77773509982c98430d7eb722ca8",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/9ea32835a5056fd5/08.png",
-    "sha256": "9ea32835a5056fd596190c2cb56dd377c94ac77773509982c98430d7eb722ca8",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-04-historia-006",
     "publicPath": "m/a0ca74ec6a8e32af/06.png",
     "sha256": "a0ca74ec6a8e32af34d958cb1d268b8730594c2033a77c47314945868e6ea98b",
@@ -3352,28 +3056,12 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/a42a86a384350838/03.png",
-    "sha256": "a42a86a384350838c2a35810262f708c7bf5dd5bbd463237b80510e67f8b1667",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
     "publicPath": "m/a50469b97d0b6761/09.png",
     "sha256": "a50469b97d0b6761f16cae6ddd83787a3446dffe08c00670495c978751d2e4ca",
     "mimeType": "image/png",
     "publishAt": "2026-09-01T21:00:00Z",
     "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/a52a412f1aeff5ab/04.png",
-    "sha256": "a52a412f1aeff5ab806538bb563c3920d88746fb124ebc351fbc7cbb7044eb24",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-10-historia-012",
@@ -3560,14 +3248,6 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/aaf504d1f8693065/03.png",
-    "sha256": "aaf504d1f8693065a52572711866a0c538161922db30afbdc9f94bd40be90502",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
     "campaignId": "pilot-lola-small-shadow-narrated",
     "publicPath": "m/ab7fc05a5fb2c115/03.png",
     "sha256": "ab7fc05a5fb2c1155f6b7b92dfd653ded3d0fd45b3a0e6fa7a8d2be59851ca55",
@@ -3662,14 +3342,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-08T21:00:00Z",
     "purgeAfter": "2026-09-29T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/aeff0777ec8b55cf/07.png",
-    "sha256": "aeff0777ec8b55cf07124dd54451391cddae703b3c6fd3c9badf1241018da38f",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-08-historia-010",
@@ -4104,14 +3776,6 @@
     "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/c4800511ce0d6f71/05.png",
-    "sha256": "c4800511ce0d6f711271530e6502ec6da501205ff8866781b6501bd2c81ae14b",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-001",
     "publicPath": "m/c505119bb3b42215/10.png",
     "sha256": "c505119bb3b42215f784b44a780b923a789ad874067772b0f185f3600a6117a5",
@@ -4472,14 +4136,6 @@
     "purgeAfter": "2026-09-28T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-30-o-presente-que-voou",
-    "publicPath": "m/d8b338640eb2eca7/key-image-square.png",
-    "sha256": "d8b338640eb2eca751f9bbe3c3f4600784be32fa8d85648bb9a192c2f6098845",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-30T21:00:00Z",
-    "purgeAfter": "2026-09-20T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/d8ce2ae4860d51e9/05.png",
     "sha256": "d8ce2ae4860d51e92757cb7f0b0bdcbfcb3eb13654b2d39777027675340b097c",
@@ -4502,14 +4158,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/dba91b497453040b/04.png",
-    "sha256": "dba91b497453040b73014abb35cd84d73baafa6f50a668abf0036723eb10a6a8",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "season-02-day-006",
@@ -4686,14 +4334,6 @@
     "mimeType": "image/jpeg",
     "publishAt": "2026-09-13T19:00:00Z",
     "purgeAfter": "2026-10-04T19:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/e240886c6aa035c2/05.png",
-    "sha256": "e240886c6aa035c27431c26a0fed1f1a032f14a9ec74feb5219b4e4d6192883b",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-04-historia-006",
@@ -4902,14 +4542,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-07T21:00:00Z",
     "purgeAfter": "2026-09-28T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/eb625bce7873b933/01.png",
-    "sha256": "eb625bce7873b9338e64414908fb5fd7a952b16cd34ee93393ed38ec3015da7f",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "pilot-running-drum-narrated",
@@ -5166,14 +4798,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-hollow-trunk-whistle-narrated",
-    "publicPath": "m/f813559dd87389e6/08.png",
-    "sha256": "f813559dd87389e64861dd449024dd73b8dd3356234db5348a7363611ea94442",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T11:30:00Z",
-    "purgeAfter": "2026-09-21T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
