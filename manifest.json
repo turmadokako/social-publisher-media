@@ -24,22 +24,6 @@
     "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/02a6f811aa78d5b9/02.png",
-    "sha256": "02a6f811aa78d5b9328743187f97e0ebed3bcc23a1b8f5fb369bb690bb5b0529",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/02a6f811aa78d5b9/04.png",
-    "sha256": "02a6f811aa78d5b9328743187f97e0ebed3bcc23a1b8f5fb369bb690bb5b0529",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-05-historia-007",
     "publicPath": "m/02f7a894f28db92f/05.png",
     "sha256": "02f7a894f28db92f62bc77346a92bc4fdc5b1b41fde58cbac37f2579d75438f3",
@@ -54,22 +38,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-11T13:00:00Z",
     "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/03ba392f20db9931/05.png",
-    "sha256": "03ba392f20db99318cbcfb5fdb0c7329445dbb6a2435ed8066e51256f4287b42",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/03ba392f20db9931/10.png",
-    "sha256": "03ba392f20db99318cbcfb5fdb0c7329445dbb6a2435ed8066e51256f4287b42",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-05-historia-007",
@@ -118,14 +86,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T21:00:00Z",
     "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/064544143bfb0989/02.png",
-    "sha256": "064544143bfb0989d85e6cc542aad7ab3ddd4255aab83c9f6b11817c6219f6b0",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-04-historia-006",
@@ -256,22 +216,6 @@
     "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/0e798dfc9ba49710/03.png",
-    "sha256": "0e798dfc9ba49710abd50cda728382cd59c40833cbdcdf7f90d1f92b0a18c79d",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/0e798dfc9ba49710/08.png",
-    "sha256": "0e798dfc9ba49710abd50cda728382cd59c40833cbdcdf7f90d1f92b0a18c79d",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-08-historia-010",
     "publicPath": "m/0eebeb1253d3a457/05.png",
     "sha256": "0eebeb1253d3a457ef0b1467a47e9efb59a67b943c192d70b7f847821f639720",
@@ -294,14 +238,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-07T13:00:00Z",
     "purgeAfter": "2026-09-28T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/0f6585da14bc486f/08.png",
-    "sha256": "0f6585da14bc486fa6121793ff44daa1d5e9cb5ed323f9817b057a1af2a62847",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-05-historia-007",
@@ -334,14 +270,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-09T21:00:00Z",
     "purgeAfter": "2026-09-30T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/106c94cc77e97d04/02.png",
-    "sha256": "106c94cc77e97d044bf2a4422b0a1d37339a4939567fd3153f6b7bba5953f64f",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
@@ -480,14 +408,6 @@
     "purgeAfter": "2026-10-04T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/179859c1a644a007/05.png",
-    "sha256": "179859c1a644a007c3f6dfa139be8369ce79fd58bfebc3b214d89023546e0ebb",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
-  },
-  {
     "campaignId": "pilot-flying-leaf-party-narrated",
     "publicPath": "m/17d5c94adef0820c/06.png",
     "sha256": "17d5c94adef0820cd02980aec39891cbea0dfccbed540a6fb1a1ea7b197f0d9d",
@@ -568,28 +488,12 @@
     "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/1b9a616a2c21bb27/03.png",
-    "sha256": "1b9a616a2c21bb27c585436e8aba6bfdc594b12add685efd362f52df1d9b1a49",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/1d6abbe62413bb73/01.png",
     "sha256": "1d6abbe62413bb7387e6e8ed37fa77869e92d0de19e1170d44160c4beaf94a6c",
     "mimeType": "image/png",
     "publishAt": "2026-09-10T13:00:00Z",
     "purgeAfter": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/1d9235aeb10dc2f5/08.png",
-    "sha256": "1d9235aeb10dc2f5107d9f547dafd8b3f92d90992ddc29cac81a89cf0bee111d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
     "campaignId": "season-02-day-001",
@@ -600,28 +504,12 @@
     "purgeAfter": "2026-09-28T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/1f8a8fe6a5107cd1/06.png",
-    "sha256": "1f8a8fe6a5107cd163ee46539d240caab7be40c34e8f86a33a79985b81e530a0",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/1fad03c6286ad361/05.png",
     "sha256": "1fad03c6286ad361180b9dc49b3782f465d8d23d7f592a2aed6036b157a43fad",
     "mimeType": "image/png",
     "publishAt": "2026-09-10T13:00:00Z",
     "purgeAfter": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/1fc0d9c93f6316d1/video.mp4",
-    "sha256": "1fc0d9c93f6316d1dcd7ae868cb9b5692f5cf9a6e6d709025c194218374f034d",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-06-historia-008",
@@ -736,14 +624,6 @@
     "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/2761c6a9a74874cb/01.png",
-    "sha256": "2761c6a9a74874cbc555322462558d5d40873531c74deba5cd2973f53f3edcc5",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-007",
     "publicPath": "m/27ed0f33bdeeea92/02.png",
     "sha256": "27ed0f33bdeeea92e7487a60f27a001446211bcf16cd6cab5f0f83d9166c7fc3",
@@ -856,14 +736,6 @@
     "purgeAfter": "2026-09-29T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/2d13465487c2155c/06.png",
-    "sha256": "2d13465487c2155c2ecc44f2515e10a7a046af0694c2c9b06d549a4be05db433",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-002",
     "publicPath": "m/2d3bbc686f82166f/02.jpg",
     "sha256": "2d3bbc686f82166fd1594c035882f38d257c3358bb34803c22b51ab29be086b3",
@@ -942,14 +814,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T11:30:00Z",
     "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/30093522c752fae3/02.png",
-    "sha256": "30093522c752fae376c865eecc284db149af395c3444fe6f45c44e24906f0dac",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-10-historia-012",
@@ -1240,14 +1104,6 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/408e901e23a1b964/06.png",
-    "sha256": "408e901e23a1b964a8f54baa28f3206c602c6299b2395b4923a99b27fb39242b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
     "publicPath": "m/4108ac6e85ac0bc7/04.png",
     "sha256": "4108ac6e85ac0bc75a5c807d3854b68a5a25346b9d9dc4c86723653b4fcf609d",
@@ -1384,14 +1240,6 @@
     "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/4a1258d6bca95242/07.png",
-    "sha256": "4a1258d6bca95242aa444c1677ee18e6a6a48f2341973c7396ec2ec405b50887",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-003",
     "publicPath": "m/4a30ae3eec1d417e/07.png",
     "sha256": "4a30ae3eec1d417e65cc044d3d78602aa68b0753dbed1e769d89b9c5cf1ad2a7",
@@ -1486,14 +1334,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-04T11:30:00Z",
     "purgeAfter": "2026-09-25T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/4d4f01bdd12af5ea/03.png",
-    "sha256": "4d4f01bdd12af5eacb6c1f7555f586476c36b935e3f1a6b33a40594b0bab07b6",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-06-historia-008",
@@ -1766,14 +1606,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-12T19:00:00Z",
     "purgeAfter": "2026-10-03T19:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/5fd156b6216bdf73/04.png",
-    "sha256": "5fd156b6216bdf736c6de12e99012716588e2b267f6fbbd38dbdd0dba7b8bbe5",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
@@ -2176,30 +2008,6 @@
     "purgeAfter": "2026-10-02T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/79ca1dabd3c28cd2/02.png",
-    "sha256": "79ca1dabd3c28cd2e46b3216a292215b2781713b0215a85e66ec0fbb5bec0386",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/7a43eeaff70ef1fd/04.png",
-    "sha256": "7a43eeaff70ef1fd00265484e7b28f9b8c7fefb1b3efed54411382b45330ef98",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/7a43eeaff70ef1fd/09.png",
-    "sha256": "7a43eeaff70ef1fd00265484e7b28f9b8c7fefb1b3efed54411382b45330ef98",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/7a8b1d1ff61de9bb/05.png",
     "sha256": "7a8b1d1ff61de9bbef7a69bff9cf1052bcfda717c6191a6f4865974d5424dac1",
@@ -2262,14 +2070,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-04T21:00:00Z",
     "purgeAfter": "2026-09-25T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/7c4c395b7c5eda56/05.png",
-    "sha256": "7c4c395b7c5eda56fd112c89b4ab5d818bce0b5d2b2324a34670eab33170c04c",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-04-historia-006",
@@ -2352,14 +2152,6 @@
     "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/814417ada4975de7/09.png",
-    "sha256": "814417ada4975de7d602c6bb8ba1177cfa6bc5a50d5665cfdcd417ab8d4b055d",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
     "publicPath": "m/816d6a012bab10ed/05.png",
     "sha256": "816d6a012bab10ed420b882978e5effb0efc2bcb804a014eb5935eb33131324f",
@@ -2438,14 +2230,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T11:30:00Z",
     "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/8394b5fc372029ba/01.png",
-    "sha256": "8394b5fc372029bad4728eab2fcde242330175086323099f50cba8b98729e234",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-004",
@@ -2560,14 +2344,6 @@
     "purgeAfter": "2026-09-24T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/89d65f5ab3292ae7/03.png",
-    "sha256": "89d65f5ab3292ae75407f4272ae640f8ea6a45e7fd3084084994933a1561c335",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "pilot-five-step-circle-narrated",
     "publicPath": "m/8a5d01c7dbcb93a0/04.png",
     "sha256": "8a5d01c7dbcb93a0862e0780403b9e9deac1b33ec150d461aa545f99850fd7b5",
@@ -2662,22 +2438,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/8e192cb8f7efda42/04.png",
-    "sha256": "8e192cb8f7efda420d63cdb3be8bda05029a3759e712ae75757ea7e995f4f90b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/8e192cb8f7efda42/07.png",
-    "sha256": "8e192cb8f7efda420d63cdb3be8bda05029a3759e712ae75757ea7e995f4f90b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-05-historia-007",
@@ -2776,14 +2536,6 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/92ad1c8a280d0349/04.png",
-    "sha256": "92ad1c8a280d03497a66224d32b9186105943b28cba4e3a291a35772d780db85",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/92ef141d8b87e4b9/03.png",
     "sha256": "92ef141d8b87e4b94f7db7b963daf9f397a178b2e06bfd776be1b5ebc2f2b8dd",
@@ -2878,14 +2630,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-09T21:00:00Z",
     "purgeAfter": "2026-09-30T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/9776488b3904b372/06.png",
-    "sha256": "9776488b3904b372443d32e212ec042741e0113c764da52c97adcdbb1d4984e0",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-07-historia-009",
@@ -3000,14 +2744,6 @@
     "purgeAfter": "2026-10-04T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/a252b90d73b2f4a6/02.png",
-    "sha256": "a252b90d73b2f4a6f878315d99aa634e8ac26cebea510804ab9bfee9e9ef338b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/a26f9feda77659b1/03.jpg",
     "sha256": "a26f9feda77659b133e6c7265a9a44dd78f965168fc6609473d86a387b3d3ffa",
@@ -3038,14 +2774,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T21:00:00Z",
     "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/a3c02860586919c1/07.png",
-    "sha256": "a3c02860586919c161a34dd31dd2408f446cba13c39b68581587a3fdeac0377e",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-06-historia-008",
@@ -3278,14 +3006,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T11:30:00Z",
     "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/ac64887828084d71/01.png",
-    "sha256": "ac64887828084d717cd38ca0189b26493312e024671adb73fe996f7dec83e29e",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-05-historia-007",
@@ -3656,14 +3376,6 @@
     "purgeAfter": "2026-10-04T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/c01ad0d308b81fa0/05.png",
-    "sha256": "c01ad0d308b81fa06015c97aab395684e75e8a96ea6eab27ed077752fdfb5ec5",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "pilot-ploft-tent-narrated",
     "publicPath": "m/c1a4b50bf05e833f/04.png",
     "sha256": "c1a4b50bf05e833fea35b8d6786bef0e5b1d2d052ca0f9dc32818a442a5d2e4d",
@@ -3750,14 +3462,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-08T21:00:00Z",
     "purgeAfter": "2026-09-29T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/c445bb0d2c289631/07.png",
-    "sha256": "c445bb0d2c289631445207dbf9321fdf1df760b6de715483e8343d0a38233c23",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-five-step-circle-narrated",
@@ -3902,14 +3606,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-08T19:00:00Z",
     "purgeAfter": "2026-09-29T19:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/ccdb70c63c9e4c66/08.png",
-    "sha256": "ccdb70c63c9e4c6668305bc673de4527a4c53b3fae7f5dc375553a3f0d9f9975",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
     "campaignId": "season-02-day-007",
@@ -4168,14 +3864,6 @@
     "purgeAfter": "2026-10-03T19:00:00.000Z"
   },
   {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/dc14367bb2435f87/04.png",
-    "sha256": "dc14367bb2435f877e8a8210c7492c5725345bc316876e32185a5ef1cc3cb63d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-03-o-desenho-escondido",
     "publicPath": "m/dc77340f21a33274/09.png",
     "sha256": "dc77340f21a3327463c949493f62aeccdf5fd2ff054acb510e13694512ac8058",
@@ -4408,30 +4096,6 @@
     "purgeAfter": "2026-10-02T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/e503ac77d1664ca9/05.png",
-    "sha256": "e503ac77d1664ca9f53c49251de89e375b45a51ef6dbfad65bf670d2eedf31ca",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/e56e103b47f0804e/01.png",
-    "sha256": "e56e103b47f0804e672f7d9fe6520fa8b4cc92af9f90160de8e42491243985c0",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/e56e103b47f0804e/key-image-portrait.png",
-    "sha256": "e56e103b47f0804e672f7d9fe6520fa8b4cc92af9f90160de8e42491243985c0",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "pilot-flying-leaf-party-narrated",
     "publicPath": "m/e621e43f9a85f482/08.png",
     "sha256": "e621e43f9a85f482a98528449fea0da5f431d3e602954f90d8231eb1526cd630",
@@ -4528,28 +4192,12 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/ea702f08da854439/10.png",
-    "sha256": "ea702f08da85443966a5bf8713a60535c1fd0e287078493b5c76683b9642c404",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-07-historia-009",
     "publicPath": "m/eafae421b1951881/10.png",
     "sha256": "eafae421b1951881af1ebe1cccdd87eb7446ad4c01c81d1266ad89ea75972f79",
     "mimeType": "image/png",
     "publishAt": "2026-09-07T21:00:00Z",
     "purgeAfter": "2026-09-28T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-running-drum-narrated",
-    "publicPath": "m/ebbe0db571636420/03.png",
-    "sha256": "ebbe0db571636420843e4d4ea59dab4a6f0e9172b4eecde057e92c0c7d659429",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T11:30:00Z",
-    "purgeAfter": "2026-09-22T11:30:00.000Z"
   },
   {
     "campaignId": "pilot-blue-sneeze-drawing-narrated",
@@ -4688,14 +4336,6 @@
     "purgeAfter": "2026-09-29T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/f33dddfdb014fdd3/03.png",
-    "sha256": "f33dddfdb014fdd347907d478915fb1631b132c771c7691da5e1b22325c72ad4",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/f36d9ca25e8b2885/04.png",
     "sha256": "f36d9ca25e8b288524e942aecce63aaf263ab5ab2b1643248bb0aa353a05994f",
@@ -4798,22 +4438,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/f832f99ec4f35e12/video.mp4",
-    "sha256": "f832f99ec4f35e12867ef825ff83a62157ceac8f98b81a187cf70daddd1e2087",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-08-31-o-tambor-sem-ritmo",
-    "publicPath": "m/f89b6b6a8fb6b491/key-image-square.png",
-    "sha256": "f89b6b6a8fb6b49145e5545e632bd8ecd4259a6c0d095fc8c904f6163b08776d",
-    "mimeType": "image/png",
-    "publishAt": "2026-08-31T21:00:00Z",
-    "purgeAfter": "2026-09-21T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
