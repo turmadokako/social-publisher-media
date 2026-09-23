@@ -104,14 +104,6 @@
     "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/09471a3eeee3fa8a/video.mp4",
-    "sha256": "09471a3eeee3fa8a011271dc4df56c1a04d45dd4683443e9546f5162e3f6b761",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
     "campaignId": "pilot-five-step-circle-narrated",
     "publicPath": "m/09bc4175f4f4bd76/03.png",
     "sha256": "09bc4175f4f4bd76adc252b728ce00bdc81112891e8978f01078b0360cfc7ac2",
@@ -206,14 +198,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/0d9cc2a3fd6792b3/08.png",
-    "sha256": "0d9cc2a3fd6792b36f948284b934e29b174a7dbdfe2d6795919f3ca13f5bba74",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-08-historia-010",
@@ -352,14 +336,6 @@
     "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/15258ef4401fe503/08.png",
-    "sha256": "15258ef4401fe503b2d351f8b1dd113a0ca0be61239420ee6afdae540e36169b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
     "campaignId": "pilot-ploft-tent-narrated",
     "publicPath": "m/154c02c4b46d65e1/03.png",
     "sha256": "154c02c4b46d65e1ea4968717a8679b2068c739b457accfd8cc38c86052fb1ab",
@@ -472,22 +448,6 @@
     "purgeAfter": "2026-09-30T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/1adf091f44455d78/03.png",
-    "sha256": "1adf091f44455d78f122b446efa799269210f0ce4ddeb8df25abe4031b71c973",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/1adf091f44455d78/08.png",
-    "sha256": "1adf091f44455d78f122b446efa799269210f0ce4ddeb8df25abe4031b71c973",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/1d6abbe62413bb73/01.png",
     "sha256": "1d6abbe62413bb7387e6e8ed37fa77869e92d0de19e1170d44160c4beaf94a6c",
@@ -568,14 +528,6 @@
     "purgeAfter": "2026-09-29T19:00:00.000Z"
   },
   {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/23bb11f14dea6198/05.png",
-    "sha256": "23bb11f14dea619874bb7ce143e5dfcb5297bac1d1800f8b539cafe2103d1e99",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
     "publicPath": "m/23c1bc1a9c7fed96/07.png",
     "sha256": "23c1bc1a9c7fed968a7868d4cd6f8a40e458934cd40910de5d83651837dc8486",
@@ -654,14 +606,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-10T13:00:00Z",
     "purgeAfter": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/296e88cc1805c842/06.png",
-    "sha256": "296e88cc1805c842d6ad5dafc22cd8ade4a734a5570fdcb449820a8e3d35d9be",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
@@ -766,14 +710,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-03T11:30:00Z",
     "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/2e2bc36fe876a947/07.png",
-    "sha256": "2e2bc36fe876a947a6392931989f5b5c61ff2b0bfabdbe96ce8768a309a0d8c9",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-10-historia-012",
@@ -904,14 +840,6 @@
     "purgeAfter": "2026-09-28T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/35fe822ed0fba038/03.png",
-    "sha256": "35fe822ed0fba0384ef0973b75a542422ec0c680e7f270e43de70f2d2aab2bce",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-003",
     "publicPath": "m/366d367d03649c02/01.png",
     "sha256": "366d367d03649c02c81820c0bbd5e258094bbb6afe9f49016a0edd33b019edee",
@@ -1008,14 +936,6 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/3af44c34a543f595/02.png",
-    "sha256": "3af44c34a543f595de67c6fc1e26b47c9d252c6349a22ec6d0d8db6822b5aa9b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-10-historia-012",
     "publicPath": "m/3b17b4c02f9499e7/07.png",
     "sha256": "3b17b4c02f9499e79b36eb94b634fe97d623cd04bdc32d50b20a2521636852b0",
@@ -1072,14 +992,6 @@
     "purgeAfter": "2026-10-01T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/3e9a5bfa26754fbc/key-image-square.png",
-    "sha256": "3e9a5bfa26754fbcb464c4683ac80b39144ef1610cc830f58e114aba5ec3eecb",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-003",
     "publicPath": "m/3fc6e94f6d1568e3/04.png",
     "sha256": "3fc6e94f6d1568e33e343a80b4c792a95c41836a83cac384c2c4053b1a49b01c",
@@ -1102,22 +1014,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T21:00:00Z",
     "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/4108ac6e85ac0bc7/04.png",
-    "sha256": "4108ac6e85ac0bc75a5c807d3854b68a5a25346b9d9dc4c86723653b4fcf609d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/4108ac6e85ac0bc7/09.png",
-    "sha256": "4108ac6e85ac0bc75a5c807d3854b68a5a25346b9d9dc4c86723653b4fcf609d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-lola-small-shadow-narrated",
@@ -1408,14 +1304,6 @@
     "purgeAfter": "2026-10-02T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/53db93cea8346e7f/02.png",
-    "sha256": "53db93cea8346e7fed41a4a21a3b66a51d416a562aa3412ca93ef6894fa50caa",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
     "campaignId": "pilot-flying-leaf-party-narrated",
     "publicPath": "m/54b2f8f174c80b1b/03.png",
     "sha256": "54b2f8f174c80b1b0330a00cc07a439d5ee38a711d5c84a46e4f6d928b2c43a6",
@@ -1528,14 +1416,6 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/58fb3f17315656f7/02.png",
-    "sha256": "58fb3f17315656f7264322ad3e4dd7d1c3d0df7c549652d8428d95d2f8b9ffc3",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/59b75d4172840c5b/04.png",
     "sha256": "59b75d4172840c5b2522134e12e57798a7fe50cac2167a91485efc2e16605ceb",
@@ -1622,30 +1502,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T11:30:00Z",
     "purgeAfter": "2026-09-26T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/60759b6588ee1d74/04.png",
-    "sha256": "60759b6588ee1d749d64f5cd53ee85f1cd46d615f486df0cc1d75df7e63f5747",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/60759b6588ee1d74/07.png",
-    "sha256": "60759b6588ee1d749d64f5cd53ee85f1cd46d615f486df0cc1d75df7e63f5747",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/60cc2bdf11332292/video.mp4",
-    "sha256": "60cc2bdf11332292fd9ed7dcbc5b4aafbdbe3ce4ace6c950e7e4991af34c65f3",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-flying-leaf-party-narrated",
@@ -2224,14 +2080,6 @@
     "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/838482afa056bb79/03.png",
-    "sha256": "838482afa056bb795b37187cf8b90e6cf4c7b8ba259b2a3022777fb2abb16284",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/83a52b0e2ad641dc/09.png",
     "sha256": "83a52b0e2ad641dcf6ab696cd20729d3143c64cc3d672b7bba60a06b4748a0ca",
@@ -2294,14 +2142,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-10T21:00:00Z",
     "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/85ae9538b4405248/05.png",
-    "sha256": "85ae9538b44052488554ff160583f124a6dbf4079b1736391fe7f84ee69673f9",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-002",
@@ -2384,14 +2224,6 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/8bba52aedc00b828/01.png",
-    "sha256": "8bba52aedc00b828185ffc84fea9f8446f2352a3162592178c6a73d4c1f46e4d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-005",
     "publicPath": "m/8becf9f7a024679a/01.png",
     "sha256": "8becf9f7a024679a57e9e41cf91279b30ebf33b0fb5e9aa57b584fd991e96e92",
@@ -2414,14 +2246,6 @@
     "mimeType": "video/mp4",
     "publishAt": "2026-09-12T13:00:00Z",
     "purgeAfter": "2026-10-03T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/8c7b55c7d129c837/08.png",
-    "sha256": "8c7b55c7d129c83701fb30e665d9344a0dc218d04a5293b8385ed37500acaac4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-005",
@@ -2472,22 +2296,6 @@
     "purgeAfter": "2026-09-29T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/8fe04e72e8b3cedd/04.png",
-    "sha256": "8fe04e72e8b3cedd5abf8a165d781a7fba5b06cb93e4e76edc48ec91551f587c",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/8fe13f6981a84745/04.png",
-    "sha256": "8fe13f6981a84745efaf4bc46a163f21c19b60700f4d744d01d28131e6cdba44",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-03-o-desenho-escondido",
     "publicPath": "m/902d811a8dbf3f01/video.mp4",
     "sha256": "902d811a8dbf3f014672ef9280ca9b85295c06e892ea417ba96b7afbea12b64f",
@@ -2502,22 +2310,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-12T19:00:00Z",
     "purgeAfter": "2026-10-03T19:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/90ba1d6cab50a227/02.png",
-    "sha256": "90ba1d6cab50a227e4b828665923760aa385c439dcbaadda3398d4c5e4c41280",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/90ba1d6cab50a227/03.png",
-    "sha256": "90ba1d6cab50a227e4b828665923760aa385c439dcbaadda3398d4c5e4c41280",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
     "campaignId": "pilot-ploft-tent-narrated",
@@ -2550,22 +2342,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-02T21:00:00Z",
     "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/9346aa119be652a6/02.png",
-    "sha256": "9346aa119be652a6576430ac60faf59466a78d88bc0a1e94f9a94a33ec2c3cf4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/9346aa119be652a6/04.png",
-    "sha256": "9346aa119be652a6576430ac60faf59466a78d88bc0a1e94f9a94a33ec2c3cf4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-001",
@@ -2664,14 +2440,6 @@
     "purgeAfter": "2026-10-02T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/9c11f7da6ea7d7db/04.png",
-    "sha256": "9c11f7da6ea7d7dbd090b549e54c4f5a4b9e51da5946e9d87b52879577340b6d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-005",
     "publicPath": "m/9d6640e186776430/07.png",
     "sha256": "9d6640e186776430cc3866e6ca8be5007be0f92b9633418f7d4dcbf2276e5180",
@@ -2702,14 +2470,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-10T21:00:00Z",
     "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/9e6220f49e36e99e/03.png",
-    "sha256": "9e6220f49e36e99e9fe757d389c5ece666e139804dae38ccef74721f33edbdd1",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-07-historia-009",
@@ -2782,14 +2542,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/a50469b97d0b6761/09.png",
-    "sha256": "a50469b97d0b6761f16cae6ddd83787a3446dffe08c00670495c978751d2e4ca",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-10-historia-012",
@@ -2960,14 +2712,6 @@
     "purgeAfter": "2026-09-28T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/aa5ee8a668aeca91/10.png",
-    "sha256": "aa5ee8a668aeca91c1eaf5bdab20b7c68e93187c723fa281bfd95bacae344304",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-05-historia-007",
     "publicPath": "m/aaa9f89ebf87e501/01.png",
     "sha256": "aaa9f89ebf87e501c6d9734eb4792d59df12ec23d3e6ca24c57d8bcfd92604ee",
@@ -3024,14 +2768,6 @@
     "purgeAfter": "2026-09-30T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/ad47ca3b3308a126/03.png",
-    "sha256": "ad47ca3b3308a12616be455e1226442373b9a4e97ae446b1fd9ed8a8599842d8",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-09-historia-011",
     "publicPath": "m/ae0a3bf5e89b76d6/01.png",
     "sha256": "ae0a3bf5e89b76d6b8dc5b8d8790ee79d13317e57bcc4f0df49ec2c729153e89",
@@ -3086,14 +2822,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-09T13:00:00Z",
     "purgeAfter": "2026-09-30T13:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/afd05b075a8d59ef/02.png",
-    "sha256": "afd05b075a8d59ef22e1ddf754f15d86b800d32e98100471b0b6daf13f7826df",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
@@ -3432,22 +3160,6 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/c3ca0874c0857831/05.png",
-    "sha256": "c3ca0874c0857831529a8e87ef1158363061101f91a62b71726b2a5d7fb30067",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/c3ca0874c0857831/10.png",
-    "sha256": "c3ca0874c0857831529a8e87ef1158363061101f91a62b71726b2a5d7fb30067",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-08-historia-010",
     "publicPath": "m/c403cecbeab0f61e/01.png",
     "sha256": "c403cecbeab0f61e3b50b80c1df79f8d5e416f08521f064d1313bfcdd71caa61",
@@ -3614,30 +3326,6 @@
     "mimeType": "image/jpeg",
     "publishAt": "2026-09-13T19:00:00Z",
     "purgeAfter": "2026-10-04T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/cd2309465b2c48e8/01.png",
-    "sha256": "cd2309465b2c48e8f35b3294308fdc7eca397f92c81be4ca37a67811b581e718",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/cd2309465b2c48e8/key-image-portrait.png",
-    "sha256": "cd2309465b2c48e8f35b3294308fdc7eca397f92c81be4ca37a67811b581e718",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/cd87d74b6b4be6bf/05.png",
-    "sha256": "cd87d74b6b4be6bfc99970640133ee17bdd70c63762175e12e85d72325bd78c0",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-lola-small-shadow-narrated",
@@ -4008,14 +3696,6 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/e0f21e74c2cb402f/05.png",
-    "sha256": "e0f21e74c2cb402fee8279e8c5eddd896b713d3062ebc0bc38277e14872396cc",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-007",
     "publicPath": "m/e1e64a297928c435/03.jpg",
     "sha256": "e1e64a297928c43594d708acb5f10adb2fc71007ab46a959b9a9fbb3bd59ede1",
@@ -4030,14 +3710,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-04T21:00:00Z",
     "purgeAfter": "2026-09-25T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/e30021bd8bc05779/07.png",
-    "sha256": "e30021bd8bc057798269de76d55cdc28f9dfcdca181d9c0651deda716dfac01e",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-004",
@@ -4110,14 +3782,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/e6b51e7d28b52161/07.png",
-    "sha256": "e6b51e7d28b521617fd52f49265344d8ece7ebdaf7922f74a8c841be59922a83",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-04-historia-006",
@@ -4200,14 +3864,6 @@
     "purgeAfter": "2026-09-28T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/ed70029266585ce1/01.png",
-    "sha256": "ed70029266585ce187a8b49f7f24787315d3cd1a817769ea325af82fdaa80ee6",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
     "campaignId": "pilot-lola-small-shadow-narrated",
     "publicPath": "m/ed78c517b3f9ef0f/04.png",
     "sha256": "ed78c517b3f9ef0ffd7f5c049510f9f66b67ec0aeb5e4fbcc3cfe1849b14c4eb",
@@ -4256,14 +3912,6 @@
     "purgeAfter": "2026-10-01T19:00:00.000Z"
   },
   {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/eff28afa013f2518/06.png",
-    "sha256": "eff28afa013f2518585eab4d8cf69c7f5b2a406f215ebd01ff3a0b6d10a72110",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/f02a9c3df1891c08/01.png",
     "sha256": "f02a9c3df1891c08bea4363eb1c5ef74cca6dee91b5802de646d3b35433d96c3",
@@ -4302,14 +3950,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/f22e30b1588e3d2e/01.png",
-    "sha256": "f22e30b1588e3d2e12e2d9f6385d778e008822fbf169f0bfd771a2764030c225",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-09-historia-011",
@@ -4440,14 +4080,6 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-01-a-ponte-de-folhas",
-    "publicPath": "m/f8ab5f29caaa5b71/06.png",
-    "sha256": "f8ab5f29caaa5b71ae20d524d44f20093d9c227772526c531eda45fb38e8bd5d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-01T21:00:00Z",
-    "purgeAfter": "2026-09-22T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-05-historia-007",
     "publicPath": "m/f9182e5cd7ce0480/02.png",
     "sha256": "f9182e5cd7ce0480e36f6b4f3cf578e192507a2d332ae125b6572b3349afe2b6",
@@ -4486,14 +4118,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-04T11:30:00Z",
     "purgeAfter": "2026-09-25T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-blue-sneeze-drawing-narrated",
-    "publicPath": "m/fcde368069dcfe88/06.png",
-    "sha256": "fcde368069dcfe887b25a6977075441a2455f57d1bcaf84ab5de3c1c252e934e",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T11:30:00Z",
-    "purgeAfter": "2026-09-23T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-05-historia-007",
