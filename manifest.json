@@ -48,44 +48,12 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/0522f74ba75891d2/02.png",
-    "sha256": "0522f74ba75891d28eccf6d8441abd9f56a1aaffa91eb1bb05967e62a2c5abd6",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/0522f74ba75891d2/04.png",
-    "sha256": "0522f74ba75891d28eccf6d8441abd9f56a1aaffa91eb1bb05967e62a2c5abd6",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-003",
     "publicPath": "m/057b7321baa7fc4d/01.png",
     "sha256": "057b7321baa7fc4d4792c1b4621f2dd25f1f6d971299cca4594d3a7e4ed9e44c",
     "mimeType": "image/png",
     "publishAt": "2026-09-09T13:00:00Z",
     "purgeAfter": "2026-09-30T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/05853318012cbaa7/01.png",
-    "sha256": "05853318012cbaa7682ba6b1d00566688ec69000ea4c846d9df68d80a661d8f9",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/05853318012cbaa7/key-image-portrait.png",
-    "sha256": "05853318012cbaa7682ba6b1d00566688ec69000ea4c846d9df68d80a661d8f9",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-04-historia-006",
@@ -256,14 +224,6 @@
     "purgeAfter": "2026-09-30T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/108a53d0b699a224/02.png",
-    "sha256": "108a53d0b699a2242c17e8fd84c4e9dd58f7c8aa89298f456b27e9f8fef90d63",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-10-historia-012",
     "publicPath": "m/1092a1e650464edb/08.png",
     "sha256": "1092a1e650464edbb07d4aa8ec910fa02ae1bdc74b407899960e883b0f2bad8a",
@@ -286,22 +246,6 @@
     "mimeType": "image/jpeg",
     "publishAt": "2026-09-10T19:00:00Z",
     "purgeAfter": "2026-10-01T19:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/1154ab2777eabf73/04.png",
-    "sha256": "1154ab2777eabf7364920878fdfd7f71d617db41afa5012a7ae697ba25892c09",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/1154ab2777eabf73/07.png",
-    "sha256": "1154ab2777eabf7364920878fdfd7f71d617db41afa5012a7ae697ba25892c09",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-05-historia-007",
@@ -504,14 +448,6 @@
     "purgeAfter": "2026-09-28T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/220f9a687bb756e9/05.png",
-    "sha256": "220f9a687bb756e90d081d230736d8b63e9fbe30aacad83629a971102bb36d95",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-03-o-desenho-escondido",
     "publicPath": "m/2323fd95818d7271/10.png",
     "sha256": "2323fd95818d727146e1a2b4bbb65bab8b2d437fee30ae28416f4911525aea93",
@@ -526,14 +462,6 @@
     "mimeType": "image/jpeg",
     "publishAt": "2026-09-08T19:00:00Z",
     "purgeAfter": "2026-09-29T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/23c1bc1a9c7fed96/07.png",
-    "sha256": "23c1bc1a9c7fed968a7868d4cd6f8a40e458934cd40910de5d83651837dc8486",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-05-historia-007",
@@ -606,14 +534,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-10T13:00:00Z",
     "purgeAfter": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/297802f7426c028c/key-image-square.png",
-    "sha256": "297802f7426c028c9e7d84edc8c3882a59ca30eb1e3fcafc17b6556c868f7f12",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-006",
@@ -704,14 +624,6 @@
     "purgeAfter": "2026-09-30T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/2e1d84c9ef5cf1c3/08.png",
-    "sha256": "2e1d84c9ef5cf1c30094d19bfa43a2e33fd53504dd9442c66605f0faafe66e42",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-10-historia-012",
     "publicPath": "m/2e755dec59ca19ba/01.png",
     "sha256": "2e755dec59ca19ba35a3213c153d24f0e6e02e1af12629b4cfbd7b4bbaed36a8",
@@ -774,14 +686,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-11T19:00:00Z",
     "purgeAfter": "2026-10-02T19:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/339d10e549ebb134/06.png",
-    "sha256": "339d10e549ebb1340e7911370e3a6af4cbc3fad4804501d64b4951d0aa175632",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-10-historia-012",
@@ -864,44 +768,12 @@
     "purgeAfter": "2026-09-24T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/37658f2bc70cefd3/02.png",
-    "sha256": "37658f2bc70cefd3706fdbb2c04466e4bd6a5037d90a5bffa6dbf7cdc9b16b27",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/37658f2bc70cefd3/04.png",
-    "sha256": "37658f2bc70cefd3706fdbb2c04466e4bd6a5037d90a5bffa6dbf7cdc9b16b27",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/37aab299d4145244/08.png",
     "sha256": "37aab299d414524431b9dd42f7152efcb355da3d77cbc88dc36a5f9981b47131",
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/397a4f2e1f320de1/03.png",
-    "sha256": "397a4f2e1f320de1b2bc9cf3678dbd3ee6431937f339326d6ecc927daf61b7ab",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/397a4f2e1f320de1/08.png",
-    "sha256": "397a4f2e1f320de1b2bc9cf3678dbd3ee6431937f339326d6ecc927daf61b7ab",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-07-historia-009",
@@ -968,22 +840,6 @@
     "purgeAfter": "2026-10-01T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/3e10d64b57536aa9/04.png",
-    "sha256": "3e10d64b57536aa96688818045dd41c54012a5bb9e8231741e294f3030f11e9b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/3e10d64b57536aa9/09.png",
-    "sha256": "3e10d64b57536aa96688818045dd41c54012a5bb9e8231741e294f3030f11e9b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/3e7ff5d180d71c97/10.png",
     "sha256": "3e7ff5d180d71c9781e04ba7f50069e24ee3a594875785f8b81f75d33a01c0a1",
@@ -1016,14 +872,6 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/4150115e2bfaf9d5/video.mp4",
-    "sha256": "4150115e2bfaf9d5babf4423b56f9b9baac1585f341e3c71ef84f71cb588699e",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "pilot-flying-leaf-party-narrated",
     "publicPath": "m/41554204e3db31f0/02.png",
     "sha256": "41554204e3db31f0f63626d383b74f9a04cf9707a1301fd5a42be82384dc165f",
@@ -1048,14 +896,6 @@
     "purgeAfter": "2026-09-25T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/421ea8810475914c/03.png",
-    "sha256": "421ea8810475914c95a1be831b18dfe5fa5f144b721d5476c95eb2a4e5441c8d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/422cb01bf651d8d8/03.png",
     "sha256": "422cb01bf651d8d813c383f9f1f604bfaeee471e773b96331563862fbbca2ff4",
@@ -1078,14 +918,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-09T13:00:00Z",
     "purgeAfter": "2026-09-30T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/465de4289167f22d/03.png",
-    "sha256": "465de4289167f22d094f7c60802f5e7f95e1f37db6ca3b73fd48cf8a2c27fe09",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-09-historia-011",
@@ -1126,14 +958,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-03T21:00:00Z",
     "purgeAfter": "2026-09-24T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/4983b75d3f913843/10.png",
-    "sha256": "4983b75d3f913843c6af2861df287f0e719c9c3da9847a4dd3f5316736470b62",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-003",
@@ -1486,14 +1310,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-12T19:00:00Z",
     "purgeAfter": "2026-10-03T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/6007064186b983d5/09.png",
-    "sha256": "6007064186b983d5cea95c12522f03f3bc54855b2e495b25818f69c8be3025bf",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-ploft-tent-narrated",
@@ -1960,14 +1776,6 @@
     "purgeAfter": "2026-09-29T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/7ec341aff67c140f/05.png",
-    "sha256": "7ec341aff67c140ff3c3a0c04d17a273b45ee94a0d612937aac8eb6e5ce5a4ec",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/7ef6c81c525526ac/03.jpg",
     "sha256": "7ef6c81c525526ac694e79a5e5feed2edaeaf21522ad399b632a128335d1ca77",
@@ -1990,38 +1798,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-04T11:30:00Z",
     "purgeAfter": "2026-09-25T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/7fa8d5545e4ff1e5/01.png",
-    "sha256": "7fa8d5545e4ff1e5012559488943fc04966309af4f7f68e0159cfbc4c789b7b6",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/8068b5947bea8f67/03.png",
-    "sha256": "8068b5947bea8f67ae3422c2bffce3502a3f0ce1cba3a9f2f15467f3a6b768e7",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/816d6a012bab10ed/05.png",
-    "sha256": "816d6a012bab10ed420b882978e5effb0efc2bcb804a014eb5935eb33131324f",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/816d6a012bab10ed/10.png",
-    "sha256": "816d6a012bab10ed420b882978e5effb0efc2bcb804a014eb5935eb33131324f",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-09-historia-011",
@@ -2336,14 +2112,6 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/9322fa2f4bb8e1ec/05.png",
-    "sha256": "9322fa2f4bb8e1eceed03a2aa74677252e0e622598e2c7b601ccc8034ae345f5",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-001",
     "publicPath": "m/938246342496cc46/06.png",
     "sha256": "938246342496cc462a80a85de26a9df42031aedbbdc8c24cfe5bccce9c978066",
@@ -2382,14 +2150,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/97245f0421092e37/06.png",
-    "sha256": "97245f0421092e371fd943876a1f69cba7e5c7ddb8614c7e93af471042fe55ae",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-005",
@@ -2720,14 +2480,6 @@
     "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/ab7fc05a5fb2c115/03.png",
-    "sha256": "ab7fc05a5fb2c1155f6b7b92dfd653ded3d0fd45b3a0e6fa7a8d2be59851ca55",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-09-historia-011",
     "publicPath": "m/abd1ce3e2a8efbc4/05.png",
     "sha256": "abd1ce3e2a8efbc4bc7fbf15029dd7f0bd7f6d7c6d115340657a063d29b10899",
@@ -2824,14 +2576,6 @@
     "purgeAfter": "2026-09-30T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/aff7933f21f79f23/02.png",
-    "sha256": "aff7933f21f79f23196c2d913065879c6b1d85f0a441605de6f834607dbb641f",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-09-historia-011",
     "publicPath": "m/b04e49deac3f9436/04.png",
     "sha256": "b04e49deac3f9436e4bbc8da705ab145b351ecdea66d831a4ca4af3f8864acbc",
@@ -2846,14 +2590,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-09T21:00:00Z",
     "purgeAfter": "2026-09-30T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/b0f72b26cd9bb496/02.png",
-    "sha256": "b0f72b26cd9bb4963d2a09334dc4fe0c641fb30eac873000b22751a6f9a424c8",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-03-o-desenho-escondido",
@@ -2942,14 +2678,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-08T13:00:00Z",
     "purgeAfter": "2026-09-29T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/b4ce4c8d9adc00ed/07.png",
-    "sha256": "b4ce4c8d9adc00edaee63614f9c6aaffcd755d784a58329173bbd60ddc70a76f",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-001",
@@ -3128,14 +2856,6 @@
     "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/c2fb688fb0f98fc8/06.png",
-    "sha256": "c2fb688fb0f98fc8491973f9d4e0f7930a734c7e4f31994212a40a05e4e50981",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-09-historia-011",
     "publicPath": "m/c36e951c6efd0620/03.png",
     "sha256": "c36e951c6efd0620c7c0ebd639ec98ca9c01d418b7ade755c44215b861aabe5f",
@@ -3264,14 +2984,6 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/c8b4b5dcc72148ea/08.png",
-    "sha256": "c8b4b5dcc72148eabb26406c5bd7705979cf8375ee6d89dbf5f2533e1ab6f22a",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-03-o-desenho-escondido",
     "publicPath": "m/ca2066e867e9975a/03.png",
     "sha256": "ca2066e867e9975a6be77d2cde56d5a36ed45adfce46e3aa3ab2a94f1d98da5c",
@@ -3304,14 +3016,6 @@
     "purgeAfter": "2026-10-04T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/cc8090f470926f34/06.png",
-    "sha256": "cc8090f470926f34d6a164ffca933b105b7c0030c96675ccead4dc8e630f4288",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-002",
     "publicPath": "m/ccbcacc523f67a65/01.png",
     "sha256": "ccbcacc523f67a65b4f35f8a093b9f91ed25d0a7700f5767eb5fb85e82d0f9cb",
@@ -3326,14 +3030,6 @@
     "mimeType": "image/jpeg",
     "publishAt": "2026-09-13T19:00:00Z",
     "purgeAfter": "2026-10-04T19:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/cdf07f46b6c53001/08.png",
-    "sha256": "cdf07f46b6c5300100e1b1f9d3c1847a2d73f6c93e0c0cfded10edfe7e8af6fb",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-08-historia-010",
@@ -3366,14 +3062,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-07T19:00:00Z",
     "purgeAfter": "2026-09-28T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/d0d8ee80643d4834/01.png",
-    "sha256": "d0d8ee80643d4834fe4fb1e31785b792cbc766efb85c88dbc42436135c18d0dc",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "pilot-ploft-tent-narrated",
@@ -3416,22 +3104,6 @@
     "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/d32dc0039d5015d9/video.mp4",
-    "sha256": "d32dc0039d5015d9004e2177ed6a4750328ad692b9fe33e6f2018c5bad326d00",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/d37ad09fe5266674/07.png",
-    "sha256": "d37ad09fe52666747c739666daf15486f9fef46d414d0bdd16e0c1053f0df9ff",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-003",
     "publicPath": "m/d3a7de2b82e35443/micro-short.mp4",
     "sha256": "d3a7de2b82e35443d2f7cca09f2679c3e33b892daac9f9402515768d8e09dd94",
@@ -3446,14 +3118,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-08T21:00:00Z",
     "purgeAfter": "2026-09-29T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/d425047cd3348f7e/05.png",
-    "sha256": "d425047cd3348f7e900fa600728e24b1aecaa3c122947002f607ce5ed1dac731",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-001",
@@ -3608,14 +3272,6 @@
     "purgeAfter": "2026-10-02T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/de8b87ec95406543/01.png",
-    "sha256": "de8b87ec95406543327b3acd2f32e4d547e86ab36ca995940640314bdbe5c3f4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-001",
     "publicPath": "m/de9dfbaead8d797d/04.jpg",
     "sha256": "de9dfbaead8d797d002810560734e1ca6969a19a4561ca9c8b5d86fc25048d4c",
@@ -3680,14 +3336,6 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-02-a-sombra-que-nao-cabia",
-    "publicPath": "m/dfe60d8b1448e266/04.png",
-    "sha256": "dfe60d8b1448e266c48c69671c04c4dd2a48f56cb3cbf29981af7263f5f92df2",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-02T21:00:00Z",
-    "purgeAfter": "2026-09-23T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-05-historia-007",
     "publicPath": "m/e00c8ba9cc0e84a5/09.png",
     "sha256": "e00c8ba9cc0e84a58cf7a2a83dca5aa33fef3f98d078f89083f061cc8ecdf62e",
@@ -3726,14 +3374,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-09T19:00:00Z",
     "purgeAfter": "2026-09-30T19:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/e358436e13152cff/02.png",
-    "sha256": "e358436e13152cffd1228241bf9eec54937ede404fe95e754818d475aae15353",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
     "campaignId": "pilot-five-step-circle-narrated",
@@ -3864,14 +3504,6 @@
     "purgeAfter": "2026-09-28T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/ed78c517b3f9ef0f/04.png",
-    "sha256": "ed78c517b3f9ef0ffd7f5c049510f9f66b67ec0aeb5e4fbcc3cfe1849b14c4eb",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-007",
     "publicPath": "m/ee03aa89b72b5539/02.png",
     "sha256": "ee03aa89b72b55399830eeeb94b9e30849ed5adee852c0fdb5c20bb1d64648e0",
@@ -3894,14 +3526,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-05T21:00:00Z",
     "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-lola-small-shadow-narrated",
-    "publicPath": "m/eed3214f86bc49c9/03.png",
-    "sha256": "eed3214f86bc49c9849cbc965af4d366241c1f377085578ad1ab13c600539a08",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-03T11:30:00Z",
-    "purgeAfter": "2026-09-24T11:30:00.000Z"
   },
   {
     "campaignId": "season-02-day-004",
