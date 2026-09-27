@@ -16,28 +16,12 @@
     "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/02f7a894f28db92f/05.png",
-    "sha256": "02f7a894f28db92f62bc77346a92bc4fdc5b1b41fde58cbac37f2579d75438f3",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-005",
     "publicPath": "m/03aa70c9bf41894d/09.png",
     "sha256": "03aa70c9bf41894d06385278ae2721614e19498c5f550a6375544b5416ba67a3",
     "mimeType": "image/png",
     "publishAt": "2026-09-11T13:00:00Z",
     "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/05070207f5cdb936/01.png",
-    "sha256": "05070207f5cdb9364fa4d5d077c8c146e559b85e579b0c49c5c0f801837af99f",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-003",
@@ -56,44 +40,12 @@
     "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/09bc4175f4f4bd76/03.png",
-    "sha256": "09bc4175f4f4bd76adc252b728ce00bdc81112891e8978f01078b0360cfc7ac2",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/09bc4175f4f4bd76/04.png",
-    "sha256": "09bc4175f4f4bd76adc252b728ce00bdc81112891e8978f01078b0360cfc7ac2",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/09c89921763a42f5/01.jpg",
     "sha256": "09c89921763a42f554507324d6be6bb2599df2e3749cad8a7e748b47d1792fad",
     "mimeType": "image/jpeg",
     "publishAt": "2026-09-10T19:00:00Z",
     "purgeAfter": "2026-10-01T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/0ad7ca281e43e996/06.png",
-    "sha256": "0ad7ca281e43e996360ee149e83c3a3af4c7952a87e186ada83b175f60f4232c",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/0c3ef65effe202b5/06.png",
-    "sha256": "0c3ef65effe202b5b4b69784c9d17ece773718e31e29893f27bd4c108b08b991",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-07-historia-009",
@@ -144,14 +96,6 @@
     "purgeAfter": "2026-09-28T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/0fdd1f427bbd9976/03.png",
-    "sha256": "0fdd1f427bbd9976236c3d9e987f62ee233465170bcebdc880aa8f3aa4487c79",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/0feb425036d11f08/03.png",
     "sha256": "0feb425036d11f085fe3e55a76a38f4392e628faf3ad8f66a5282a81a9672684",
@@ -200,36 +144,12 @@
     "purgeAfter": "2026-10-01T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/12c351e86e1a0e5a/06.png",
-    "sha256": "12c351e86e1a0e5a5c9868f56c53458d760248fce495da8cdeffd32358a38f8d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/13110ba17b4fd076/08.png",
-    "sha256": "13110ba17b4fd0767705aad0910ccc73353072f9edca710d9f8bdf7fe5a50cb3",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-08-historia-010",
     "publicPath": "m/1351822d5cf9fd38/07.png",
     "sha256": "1351822d5cf9fd38d9f508fc745c4df6737b1c59803da92947df6836f2d1d3a9",
     "mimeType": "image/png",
     "publishAt": "2026-09-08T21:00:00Z",
     "purgeAfter": "2026-09-29T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/1522c65a6dc43bf8/06.png",
-    "sha256": "1522c65a6dc43bf8b30e671872d82d4f90d68fc82f5866f147801ffdfab062ce",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-06-historia-008",
@@ -254,22 +174,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-13T13:00:00Z",
     "purgeAfter": "2026-10-04T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/18c9ecaa6a5ec53d/09.png",
-    "sha256": "18c9ecaa6a5ec53dfe6ad5dc030ff45c5624526d718133578e732d2ce1c294e2",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/190fcc8f5a1f177a/02.png",
-    "sha256": "190fcc8f5a1f177a2b42def1e952ba8b0098c8faae96433c92fb5e44a04b4d30",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-07-historia-009",
@@ -328,14 +232,6 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/201e31384e77f795/key-image-portrait.png",
-    "sha256": "201e31384e77f795ce6ba4f52b492d7c6c6301631cb68fbd92c5420186e53a04",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/20d7299d2f99a553/10.png",
     "sha256": "20d7299d2f99a553d8e2511e3afb7089456eb0d2f741f8e457a5dfb5497c0e3b",
@@ -360,22 +256,6 @@
     "purgeAfter": "2026-09-29T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/23e4fb9a0dc15e8f/05.png",
-    "sha256": "23e4fb9a0dc15e8f6d4a7baeaee032c6d8d5510e561954e9a8007b1f5f2b746a",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/248de15ed32a9bfd/04.png",
-    "sha256": "248de15ed32a9bfd1b4188bb35201232d9500f26b242160bf555eef1e883d596",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-003",
     "publicPath": "m/260bc51bd03c0944/video.mp4",
     "sha256": "260bc51bd03c09449ef7358388a38143ed18a9b0165f5d19a4037b1e2b1c34a9",
@@ -392,28 +272,12 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/2747441720f3ba5e/08.png",
-    "sha256": "2747441720f3ba5e5956c9b39458b1c9d9943aa5fbbd39fdcfb696f74c695c73",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-007",
     "publicPath": "m/27ed0f33bdeeea92/02.png",
     "sha256": "27ed0f33bdeeea92e7487a60f27a001446211bcf16cd6cab5f0f83d9166c7fc3",
     "mimeType": "image/png",
     "publishAt": "2026-09-13T13:00:00Z",
     "purgeAfter": "2026-10-04T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/286ec7be9c479a12/06.png",
-    "sha256": "286ec7be9c479a1298a6223d853414ce0414bfcefd04960bb3467b16dd400d2f",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-003",
@@ -552,14 +416,6 @@
     "purgeAfter": "2026-10-04T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/2fef676fc2c08dc2/05.png",
-    "sha256": "2fef676fc2c08dc2ccc7ac408f2645ea61781c95aec8655565d3d9ac9c23b1d6",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-10-historia-012",
     "publicPath": "m/326f60a24ab471ed/key-image-square.png",
     "sha256": "326f60a24ab471edd6b887e5994b1c919f93b8efd05bb8558a27f32b27266431",
@@ -656,28 +512,12 @@
     "purgeAfter": "2026-09-28T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/3a37d5a66be71ab1/05.png",
-    "sha256": "3a37d5a66be71ab117c6caa88e0b01cd77a63b1428793817b93dce6b4a6e6f46",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-005",
     "publicPath": "m/3a37effc8ad92f09/01.jpg",
     "sha256": "3a37effc8ad92f09393d181a0172476daab67582eff551596ab3d3e8807dbfe6",
     "mimeType": "image/jpeg",
     "publishAt": "2026-09-11T19:00:00Z",
     "purgeAfter": "2026-10-02T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/3a58d0e807aa2a29/03.png",
-    "sha256": "3a58d0e807aa2a2905a0e9a5d5c84fd0166a6089eba77fdfd7e61a851074610d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-10-historia-012",
@@ -726,22 +566,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-09T19:00:00Z",
     "purgeAfter": "2026-09-30T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/4056dd983cf6d46d/04.png",
-    "sha256": "4056dd983cf6d46d8bdcb1a37ac206015614b50efa1f4b4c81fdb8b2d731a7fc",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/4056dd983cf6d46d/09.png",
-    "sha256": "4056dd983cf6d46d8bdcb1a37ac206015614b50efa1f4b4c81fdb8b2d731a7fc",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-004",
@@ -840,14 +664,6 @@
     "purgeAfter": "2026-09-28T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/4b95a95aba155f57/key-image-square.png",
-    "sha256": "4b95a95aba155f5704b8b8d486d322ac4d1ce135f0af115581f06436898116f6",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/4baff2c1f689719d/08.png",
     "sha256": "4baff2c1f689719dff8db0426fd241dbf11a5919dcdabf61d9e50f75cb6a1dd5",
@@ -878,22 +694,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/4e8d6260ff5d9aa9/02.png",
-    "sha256": "4e8d6260ff5d9aa95d7b899f178c5455c79bcc226fbc906c9e37bacfb7ca4d9a",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/504a609bcdbdab1f/10.png",
-    "sha256": "504a609bcdbdab1f29f5509cadcd58a7969820b4c7565fdbff412f4f7cfc9fa4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-09-historia-011",
@@ -952,22 +752,6 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/55c3e97e3983a9a8/07.png",
-    "sha256": "55c3e97e3983a9a83f2f3204947d0b22dc5e9b4b17b00c671c944757e8f8a6c7",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/5638fcf5036beea6/03.png",
-    "sha256": "5638fcf5036beea6a3fddbd283fee682768b9eecb82b301fe5053566c24ea8d3",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-07-historia-009",
     "publicPath": "m/56dbce7b4db54595/video.mp4",
     "sha256": "56dbce7b4db5459537c489ef7d9b8d2f09d43ed74be220720ca5576d13b5cda5",
@@ -998,38 +782,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/578c3ff843615d3a/01.png",
-    "sha256": "578c3ff843615d3a85efe4ea41d91d8efc5db1483b591af63baf1b4924b6b92e",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/57ea315d22eab4ee/video.mp4",
-    "sha256": "57ea315d22eab4ee71b2064c2c214c465b0ae097c32229126d058ecdd305a241",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/583a0666e698b851/03.png",
-    "sha256": "583a0666e698b8519b1320fc6b18211d7aa02849a2fe6371b9659ee4f5e92232",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/583a0666e698b851/08.png",
-    "sha256": "583a0666e698b8519b1320fc6b18211d7aa02849a2fe6371b9659ee4f5e92232",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-006",
@@ -1176,14 +928,6 @@
     "purgeAfter": "2026-10-03T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/66ca4a68eea55c3a/04.png",
-    "sha256": "66ca4a68eea55c3a92713543849a90eb4f7a01f78d2ce6940e12147867e49bba",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-005",
     "publicPath": "m/671c26e817dc0601/micro-short.mp4",
     "sha256": "671c26e817dc0601d0fc8fad140d3e439fb8f715f1dfc91ded8b3ca83e0d0571",
@@ -1206,22 +950,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-07T21:00:00Z",
     "purgeAfter": "2026-09-28T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/6c75c8cf227a5bc9/03.png",
-    "sha256": "6c75c8cf227a5bc9c5fc8dd9c58b9fc31e21c55e303f2761322b3c76a9955d69",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/6eb601761ac46db5/05.png",
-    "sha256": "6eb601761ac46db5ed7a3c7188b7265399a43f70339fe87cc7df0b6609ac265b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
     "campaignId": "season-02-day-002",
@@ -1286,22 +1014,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-11T13:00:00Z",
     "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/738a378dfb55c339/01.png",
-    "sha256": "738a378dfb55c339b872f9888d1dadaa91e628bbdee2e2ff7a19e29cc7886501",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/740978601f2dcb96/06.png",
-    "sha256": "740978601f2dcb9635dab5af6efb799e7eeb136d7a2ded41683c70a250fb29a4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-08-historia-010",
@@ -1416,14 +1128,6 @@
     "purgeAfter": "2026-09-29T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/7b91cd8e2fc4640f/09.png",
-    "sha256": "7b91cd8e2fc4640f418d788a3c29453bb4e95145979226a44a9cbeb9a94882d6",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-08-historia-010",
     "publicPath": "m/7ce79b211b7b131c/05.png",
     "sha256": "7ce79b211b7b131cefdfbb88ac49be96f924c78745ec1f339bd970274fa24a05",
@@ -1496,14 +1200,6 @@
     "purgeAfter": "2026-10-02T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/8350b8bc92e8a586/04.png",
-    "sha256": "8350b8bc92e8a5862561def68c4b82606b5812d915b906c9c102974a46fb83f3",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-004",
     "publicPath": "m/83a52b0e2ad641dc/09.png",
     "sha256": "83a52b0e2ad641dcf6ab696cd20729d3143c64cc3d672b7bba60a06b4748a0ca",
@@ -1552,22 +1248,6 @@
     "purgeAfter": "2026-09-29T13:00:00.000Z"
   },
   {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/8a5d01c7dbcb93a0/04.png",
-    "sha256": "8a5d01c7dbcb93a0862e0780403b9e9deac1b33ec150d461aa545f99850fd7b5",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/8a5d01c7dbcb93a0/07.png",
-    "sha256": "8a5d01c7dbcb93a0862e0780403b9e9deac1b33ec150d461aa545f99850fd7b5",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-001",
     "publicPath": "m/8a8d2510635202ec/03.jpg",
     "sha256": "8a8d2510635202ec9cd7a416742b5c26bf7ada95b3f0c9436c2b99bf161fa175",
@@ -1582,14 +1262,6 @@
     "mimeType": "video/mp4",
     "publishAt": "2026-09-13T19:00:00Z",
     "purgeAfter": "2026-10-04T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/8b42e8581db1cfae/07.png",
-    "sha256": "8b42e8581db1cfaefd0c7987c4e396e3c4d6af2c37854a73f675efd450219480",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-005",
@@ -1632,14 +1304,6 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/8e7f7578e4baf511/05.png",
-    "sha256": "8e7f7578e4baf5117de3b0a7bdf872839014a689d376891c67c2b185f4818d0f",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/8ee42be532e3b128/08.png",
     "sha256": "8ee42be532e3b12888fa289c272e4b3e7d0cf504adba55549dd6754c98811a10",
@@ -1670,14 +1334,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-12T19:00:00Z",
     "purgeAfter": "2026-10-03T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/92ab5b7bae983f5f/03.png",
-    "sha256": "92ab5b7bae983f5f8da6dd6c85ca34e877f474a5e22bc9114c3a31ba57f900b3",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-06-historia-008",
@@ -1750,14 +1406,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-07T21:00:00Z",
     "purgeAfter": "2026-09-28T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/981d8484bbe5252a/key-image-square.png",
-    "sha256": "981d8484bbe5252ae9827b06d2e26d5dbbb07866483e1ffa3654ed8965a47078",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-005",
@@ -1848,14 +1496,6 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/a35f375b4ee51540/07.png",
-    "sha256": "a35f375b4ee515402ac6827413ecab36f9794187372458770bfd7ab6b8c7d879",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/a41f888dcbb94c45/05.png",
     "sha256": "a41f888dcbb94c456224f0977e21e32ffe3dbfd89f3e98713c387c13595e4a5f",
@@ -1928,30 +1568,6 @@
     "purgeAfter": "2026-10-04T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/a7a89fab09d9312a/02.png",
-    "sha256": "a7a89fab09d9312a43be535d16fb0af81fe5e513091f9f05602834e5b5ee06ff",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/a7a89fab09d9312a/04.png",
-    "sha256": "a7a89fab09d9312a43be535d16fb0af81fe5e513091f9f05602834e5b5ee06ff",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/a8c18cdc8bf2c513/08.png",
-    "sha256": "a8c18cdc8bf2c51332a2ad59789493e62039a7e2eae7b2ce01e5625b9ee504ac",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/a925c4e23e7f8f75/10.png",
     "sha256": "a925c4e23e7f8f7540752255d5ff8b20dc4234c68439660088da2053c1ba7590",
@@ -1968,28 +1584,12 @@
     "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/a9f08147b026d86d/10.png",
-    "sha256": "a9f08147b026d86dddc4ac06352987fe2dcec78a56d9d246ac76e33bda4c34e4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-001",
     "publicPath": "m/aa284f0e076b6ce4/02.png",
     "sha256": "aa284f0e076b6ce45f7ed91482b22531e2c95a4f2e8878e32301933c951399ae",
     "mimeType": "image/png",
     "publishAt": "2026-09-07T13:00:00Z",
     "purgeAfter": "2026-09-28T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/aaa9f89ebf87e501/01.png",
-    "sha256": "aaa9f89ebf87e501c6d9734eb4792d59df12ec23d3e6ca24c57d8bcfd92604ee",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-09-historia-011",
@@ -2006,22 +1606,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-09T21:00:00Z",
     "purgeAfter": "2026-09-30T21:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/ac37c243ca19101a/01.png",
-    "sha256": "ac37c243ca19101a383ab8c673b1b03f8a1c49550f2a8b523831db7ad43cc010",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/ac8dc3cd348aa0b2/02.png",
-    "sha256": "ac8dc3cd348aa0b284bcb51520e953d848ba86d8415ffda39d50cbdeb3ea78d3",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-003",
@@ -2288,14 +1872,6 @@
     "purgeAfter": "2026-09-30T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/c39cd8cbc809d336/03.png",
-    "sha256": "c39cd8cbc809d336d348484920716668eb890bd71f5b7bd46ae78787ff7ed10a",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-08-historia-010",
     "publicPath": "m/c403cecbeab0f61e/01.png",
     "sha256": "c403cecbeab0f61e3b50b80c1df79f8d5e416f08521f064d1313bfcdd71caa61",
@@ -2312,36 +1888,12 @@
     "purgeAfter": "2026-09-29T21:00:00.000Z"
   },
   {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/c475349e2fcd017d/02.png",
-    "sha256": "c475349e2fcd017d250e50da3141d53d8bb9bb809532c34e1b212ac7c3757598",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/c475349e2fcd017d/03.png",
-    "sha256": "c475349e2fcd017d250e50da3141d53d8bb9bb809532c34e1b212ac7c3757598",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-001",
     "publicPath": "m/c505119bb3b42215/10.png",
     "sha256": "c505119bb3b42215f784b44a780b923a789ad874067772b0f185f3600a6117a5",
     "mimeType": "image/png",
     "publishAt": "2026-09-07T13:00:00Z",
     "purgeAfter": "2026-09-28T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/c51349cb798c63ec/08.png",
-    "sha256": "c51349cb798c63ec177813ee90fd67877f32933827fa444502ec358d00c88c8c",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-07-historia-009",
@@ -2366,14 +1918,6 @@
     "mimeType": "video/mp4",
     "publishAt": "2026-09-13T13:00:00Z",
     "purgeAfter": "2026-10-04T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/c8251a0c2ffaeaf1/05.png",
-    "sha256": "c8251a0c2ffaeaf1fe11f8fda7854d0f80e9058adbd2bc734f63ec601190be18",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-06-historia-008",
@@ -2446,14 +1990,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-07T19:00:00Z",
     "purgeAfter": "2026-09-28T19:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/d2680a879f448104/video.mp4",
-    "sha256": "d2680a879f448104066f79e896d05360ca331d13e6be24be6ae43a422f9e6307",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-10-historia-012",
@@ -2640,28 +2176,12 @@
     "purgeAfter": "2026-09-27T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/df9c078dc843e97a/video.mp4",
-    "sha256": "df9c078dc843e97ac1c1c9b2edb60b20a0b305ce14c7299bc5d832f4ea24cafc",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/dfe02e44a480113d/key-image-square.png",
     "sha256": "dfe02e44a480113dc10e43199f9133bcbfdf1e4d8e8302cf735ded4346f37212",
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/e00c8ba9cc0e84a5/09.png",
-    "sha256": "e00c8ba9cc0e84a58cf7a2a83dca5aa33fef3f98d078f89083f061cc8ecdf62e",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-007",
@@ -2686,14 +2206,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-09T19:00:00Z",
     "purgeAfter": "2026-09-30T19:00:00.000Z"
-  },
-  {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/e3a0d295bb082350/02.png",
-    "sha256": "e3a0d295bb0823502235a3b30f3d5e7fefac4d2a56dc60382b857b72bfb6a4a4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-10-historia-012",
@@ -2744,46 +2256,6 @@
     "purgeAfter": "2026-10-01T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/e9575188534cb0da/08.png",
-    "sha256": "e9575188534cb0dacca491c6f5583877f218590c271fc06de33af297a01265b0",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/e9da475967be44cc/04.png",
-    "sha256": "e9da475967be44cc3a71aeaf7e96cc590a150b88533dcfbc78a0ddd3009c310e",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/ea079d38ced797ed/05.png",
-    "sha256": "ea079d38ced797ed7fd71d790d7dcd25ea5cf17b8dba8ef8c896e2c692573037",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/ea079d38ced797ed/10.png",
-    "sha256": "ea079d38ced797ed7fd71d790d7dcd25ea5cf17b8dba8ef8c896e2c692573037",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/ea44c1a1bd6b11d8/04.png",
-    "sha256": "ea44c1a1bd6b11d8fa3679f3a048e83aee48d97b11606c446db29a0b1da6ed34",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-07-historia-009",
     "publicPath": "m/eafae421b1951881/10.png",
     "sha256": "eafae421b1951881af1ebe1cccdd87eb7446ad4c01c81d1266ad89ea75972f79",
@@ -2798,22 +2270,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-13T19:00:00Z",
     "purgeAfter": "2026-10-04T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/eecf0f0c2437db90/01.png",
-    "sha256": "eecf0f0c2437db903d1f8e8ae6e61a928e436819985d8b2282cf0d0a191af598",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/eecf0f0c2437db90/key-image-portrait.png",
-    "sha256": "eecf0f0c2437db903d1f8e8ae6e61a928e436819985d8b2282cf0d0a191af598",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-004",
@@ -2888,14 +2344,6 @@
     "purgeAfter": "2026-10-01T19:00:00.000Z"
   },
   {
-    "campaignId": "pilot-five-step-circle-narrated",
-    "publicPath": "m/f36ee660b2b0f6ff/02.png",
-    "sha256": "f36ee660b2b0f6ff5eac2a3b4cef681e51f0e17b4c7bfb8477661abf13bfcc12",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-06T11:30:00Z",
-    "purgeAfter": "2026-09-27T11:30:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/f428f4b11c95d510/micro-short.mp4",
     "sha256": "f428f4b11c95d510d48e4dacd54b717f0fbdf81b717b3a1bb995a8e20ade35a2",
@@ -2920,28 +2368,12 @@
     "purgeAfter": "2026-09-28T21:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/f5bd1f3d15b39b07/06.png",
-    "sha256": "f5bd1f3d15b39b071613a427ebaaeb33b84118113f91885ebbdc93b5186391cc",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-003",
     "publicPath": "m/f60278d9ac93f139/05.png",
     "sha256": "f60278d9ac93f139933644f3ab4221dd8189439de1113a1c7737336aeb28952d",
     "mimeType": "image/png",
     "publishAt": "2026-09-09T13:00:00Z",
     "purgeAfter": "2026-09-30T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/f665db3c6a2a03d1/07.png",
-    "sha256": "f665db3c6a2a03d1ba8d0ef18c120517b026a1d3b8a12371e858d2cd56ae2740",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-06-historia-008",
@@ -2960,28 +2392,12 @@
     "purgeAfter": "2026-10-01T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/f77e95f5702d7445/10.png",
-    "sha256": "f77e95f5702d7445c9c479f02a0ee56167e35af355605c18cd2d75b6eb89a9e5",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-01-2026-09-06-historia-008",
     "publicPath": "m/f780f2b21711dbba/04.png",
     "sha256": "f780f2b21711dbba4d649afce97da499f444dd149f90de6e740e1d883d845843",
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/f9182e5cd7ce0480/02.png",
-    "sha256": "f9182e5cd7ce0480e36f6b4f3cf578e192507a2d332ae125b6572b3349afe2b6",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   },
   {
     "campaignId": "season-01-2026-09-09-historia-011",
@@ -2998,13 +2414,5 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-06T21:00:00Z",
     "purgeAfter": "2026-09-27T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-05-historia-007",
-    "publicPath": "m/fdfefed4253f3735/07.png",
-    "sha256": "fdfefed4253f3735898db75984d26335b07d7d3ccabcd1815e9a4708f1985c43",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-05T21:00:00Z",
-    "purgeAfter": "2026-09-26T21:00:00.000Z"
   }
 ]
