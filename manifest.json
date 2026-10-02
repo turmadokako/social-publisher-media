@@ -8,38 +8,6 @@
     "purgeAfter": "2026-10-04T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/011ce6903f3b5a12/03.png",
-    "sha256": "011ce6903f3b5a12738f7c27ba9f0a0c8ea9b81998b5725312a63eb4263d9a67",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/03aa70c9bf41894d/09.png",
-    "sha256": "03aa70c9bf41894d06385278ae2721614e19498c5f550a6375544b5416ba67a3",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/08f27c39548364b3/05.png",
-    "sha256": "08f27c39548364b3974625d9e0a63232c0d0e477ab0fec1e4c91fc358fd6585a",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-004",
-    "publicPath": "m/09c89921763a42f5/01.jpg",
-    "sha256": "09c89921763a42f554507324d6be6bb2599df2e3749cad8a7e748b47d1792fad",
-    "mimeType": "image/jpeg",
-    "publishAt": "2026-09-10T19:00:00Z",
-    "purgeAfter": "2026-10-01T19:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/0d0a97cfe5c981f8/09.png",
     "sha256": "0d0a97cfe5c981f894c983f3fa7f6db594dc4c304bdc367b2b00fa174e669d32",
@@ -54,22 +22,6 @@
     "mimeType": "image/jpeg",
     "publishAt": "2026-09-13T19:00:00Z",
     "purgeAfter": "2026-10-04T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/1092a1e650464edb/08.png",
-    "sha256": "1092a1e650464edbb07d4aa8ec910fa02ae1bdc74b407899960e883b0f2bad8a",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-004",
-    "publicPath": "m/11161457db14229c/04.jpg",
-    "sha256": "11161457db14229c8a1bca1c235786ca58a4df712584e91764b08a447f9703f1",
-    "mimeType": "image/jpeg",
-    "publishAt": "2026-09-10T19:00:00Z",
-    "purgeAfter": "2026-10-01T19:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-007",
@@ -112,22 +64,6 @@
     "purgeAfter": "2026-10-04T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/2e755dec59ca19ba/01.png",
-    "sha256": "2e755dec59ca19ba35a3213c153d24f0e6e02e1af12629b4cfbd7b4bbaed36a8",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/2e755dec59ca19ba/key-image-portrait.png",
-    "sha256": "2e755dec59ca19ba35a3213c153d24f0e6e02e1af12629b4cfbd7b4bbaed36a8",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/2e7e11537ac2269c/02.png",
     "sha256": "2e7e11537ac2269c1e5fddfed2a37ed732ed842617903da43ed9a9c3c9ea9bff",
@@ -144,22 +80,6 @@
     "purgeAfter": "2026-10-04T13:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/326f60a24ab471ed/key-image-square.png",
-    "sha256": "326f60a24ab471edd6b887e5994b1c919f93b8efd05bb8558a27f32b27266431",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/32ca706ebd733573/06.png",
-    "sha256": "32ca706ebd733573a222f66a01ba35e0e771f2f4a3d270c90e57b861685df654",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-005",
     "publicPath": "m/32d1982778f6ef8d/03.png",
     "sha256": "32d1982778f6ef8dd9e4a063f72981d8529ac0e737788166d479679cbc270a3b",
@@ -168,44 +88,12 @@
     "purgeAfter": "2026-10-02T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/34610921a79977d2/05.png",
-    "sha256": "34610921a79977d2274dedb387ac265e35bec7ccaa05be1d10c7dea22a6ff057",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/34610921a79977d2/10.png",
-    "sha256": "34610921a79977d2274dedb387ac265e35bec7ccaa05be1d10c7dea22a6ff057",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-005",
     "publicPath": "m/3a37effc8ad92f09/01.jpg",
     "sha256": "3a37effc8ad92f09393d181a0172476daab67582eff551596ab3d3e8807dbfe6",
     "mimeType": "image/jpeg",
     "publishAt": "2026-09-11T19:00:00Z",
     "purgeAfter": "2026-10-02T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/3b17b4c02f9499e7/07.png",
-    "sha256": "3b17b4c02f9499e79b36eb94b634fe97d623cd04bdc32d50b20a2521636852b0",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-004",
-    "publicPath": "m/422cb01bf651d8d8/03.png",
-    "sha256": "422cb01bf651d8d813c383f9f1f604bfaeee471e773b96331563862fbbca2ff4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T19:00:00Z",
-    "purgeAfter": "2026-10-01T19:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-007",
@@ -248,14 +136,6 @@
     "purgeAfter": "2026-10-03T13:00:00.000Z"
   },
   {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/5dda20b014068539/08.png",
-    "sha256": "5dda20b014068539b37b1f3e08d352169ec9594e22e997c71a63e0dd8341cf8f",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/5e492612d6436e6a/01.png",
     "sha256": "5e492612d6436e6ab13ca29673f3377957c71dfc8a1f6803459aa4b8b4267148",
@@ -264,36 +144,12 @@
     "purgeAfter": "2026-10-03T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/61d4234465710619/03.png",
-    "sha256": "61d42344657106194471fcdc609bdf9575323b07f99fcd31e4dca23fd4071c04",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/61d4234465710619/08.png",
-    "sha256": "61d42344657106194471fcdc609bdf9575323b07f99fcd31e4dca23fd4071c04",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/62293f79d691016d/07.png",
     "sha256": "62293f79d691016d0925c21767d358dbc9e015c25a65835249fb7359f81b8b15",
     "mimeType": "image/png",
     "publishAt": "2026-09-12T13:00:00Z",
     "purgeAfter": "2026-10-03T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/65fd4957d94d8385/06.png",
-    "sha256": "65fd4957d94d8385d7d164586ff44029024026653d00dfa759cefc8dd1dc9522",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-006",
@@ -320,28 +176,12 @@
     "purgeAfter": "2026-10-02T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/7143ba1f3d1b103a/03.png",
-    "sha256": "7143ba1f3d1b103ab11f971d6a015faca8e802b2184842b94753c6b04650672d",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-007",
     "publicPath": "m/72447ddc2e3086d7/08.png",
     "sha256": "72447ddc2e3086d777acfe5b6bb744efcd44f42383fec7236de749646001ccdc",
     "mimeType": "image/png",
     "publishAt": "2026-09-13T13:00:00Z",
     "purgeAfter": "2026-10-04T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/736e872fab5f9105/01.png",
-    "sha256": "736e872fab5f9105d1d4314197a9df9c42015daf96cd390a3fdd3d5cef80e6b6",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-006",
@@ -352,84 +192,12 @@
     "purgeAfter": "2026-10-03T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/7646d5cd1b0cef2b/09.png",
-    "sha256": "7646d5cd1b0cef2b99ab25c6478639ec11c79a7299522a05f404acdb7c775196",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/79aa819fc5535175/06.png",
-    "sha256": "79aa819fc5535175875673285d905393ba6f7397e974c809d7e3f0051145e015",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/7a8b1d1ff61de9bb/05.png",
     "sha256": "7a8b1d1ff61de9bbef7a69bff9cf1052bcfda717c6191a6f4865974d5424dac1",
     "mimeType": "image/png",
     "publishAt": "2026-09-12T13:00:00Z",
     "purgeAfter": "2026-10-03T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/7ac3d7cfc3c65858/02.png",
-    "sha256": "7ac3d7cfc3c65858d8b58896e0fc7da4515aa504c7b42eb379294fab5586564c",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/7af5a997aa87a40d/05.png",
-    "sha256": "7af5a997aa87a40d1c75aa6e8489aed61c59286f527540c888c04d6f7f98159b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-004",
-    "publicPath": "m/7ef6c81c525526ac/03.jpg",
-    "sha256": "7ef6c81c525526ac694e79a5e5feed2edaeaf21522ad399b632a128335d1ca77",
-    "mimeType": "image/jpeg",
-    "publishAt": "2026-09-10T19:00:00Z",
-    "purgeAfter": "2026-10-01T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-004",
-    "publicPath": "m/825691610685fc02/02.png",
-    "sha256": "825691610685fc023df5b29daa515afa7e2afc7d6037fdf6c75bf41dca7f3f3b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T19:00:00Z",
-    "purgeAfter": "2026-10-01T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/827290273a99d654/04.png",
-    "sha256": "827290273a99d654af1e8417aff95c1af0dff20001e54f8c1335b4c8b8afad66",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-004",
-    "publicPath": "m/8426bec57286122c/micro-short.mp4",
-    "sha256": "8426bec57286122ca0d2fb4358f7438d1569935fadbafc6938166cde6236ac82",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-10T19:00:00Z",
-    "purgeAfter": "2026-10-01T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/84f2195dcc7ce4c0/05.png",
-    "sha256": "84f2195dcc7ce4c0a41c8c18561788412dd722b32cb68d7bffc2f8036d61ad2a",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-007",
@@ -454,14 +222,6 @@
     "mimeType": "video/mp4",
     "publishAt": "2026-09-12T13:00:00Z",
     "purgeAfter": "2026-10-03T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/8c8152951cef5185/03.png",
-    "sha256": "8c8152951cef51851253a94cbccb56d68dbfbf9998ed919a62d3afd9b22034c8",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-006",
@@ -512,30 +272,6 @@
     "purgeAfter": "2026-10-02T19:00:00.000Z"
   },
   {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/9d6640e186776430/07.png",
-    "sha256": "9d6640e186776430cc3866e6ca8be5007be0f92b9633418f7d4dcbf2276e5180",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/9e0bb5f0ad6ba4e4/10.png",
-    "sha256": "9e0bb5f0ad6ba4e45d698f56c9c5041f2e4467fd1699e0d3f4e0fd860748f39f",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/9e125dbade073f85/04.png",
-    "sha256": "9e125dbade073f85bc2618f5f0a5a1ddb960d9603179cc6518d92773fe8a7471",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-007",
     "publicPath": "m/a1d4e0b0dcf40bae/07.png",
     "sha256": "a1d4e0b0dcf40bae9268a2f1ee70256b0526af5a0f6fdce892f301edea707cd2",
@@ -552,14 +288,6 @@
     "purgeAfter": "2026-10-03T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/a56801b493b9ea90/video.mp4",
-    "sha256": "a56801b493b9ea9045bd6ed8d59219ccc85926824f34cc1c518f467c0ff1f3c9",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-007",
     "publicPath": "m/a6ea639955d31aab/04.jpg",
     "sha256": "a6ea639955d31aab8a9db5c548c04b911f3224593dc986cfeaa77f691a48a619",
@@ -568,44 +296,12 @@
     "purgeAfter": "2026-10-04T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/a9ee7575b3f3b19b/07.png",
-    "sha256": "a9ee7575b3f3b19bac4f923f6138be66a7b5e187c3dfecfdaef78d06f3e2d75b",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/b19d2cc6a498ded3/04.png",
-    "sha256": "b19d2cc6a498ded33f2ca50033114839a84d073377cafb15df141e8043842099",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/b19d2cc6a498ded3/09.png",
-    "sha256": "b19d2cc6a498ded33f2ca50033114839a84d073377cafb15df141e8043842099",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-006",
     "publicPath": "m/b5dfa5d9beece55c/01.png",
     "sha256": "b5dfa5d9beece55c0ac343ffdc3686364ef5116278a9edc82d5f060a9d4e1cc4",
     "mimeType": "image/png",
     "publishAt": "2026-09-12T13:00:00Z",
     "purgeAfter": "2026-10-03T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-004",
-    "publicPath": "m/b870f112a7915f97/02.jpg",
-    "sha256": "b870f112a7915f97a7d1a1110a54918ce176cd362ce44dbdbbe477cefd001761",
-    "mimeType": "image/jpeg",
-    "publishAt": "2026-09-10T19:00:00Z",
-    "purgeAfter": "2026-10-01T19:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-007",
@@ -622,14 +318,6 @@
     "mimeType": "image/png",
     "publishAt": "2026-09-13T19:00:00Z",
     "purgeAfter": "2026-10-04T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/c2b4a667e24f1753/02.png",
-    "sha256": "c2b4a667e24f175367fbd7913f8d9508f997e8b10a4abfe24a5e4de509a0ffb4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-007",
@@ -656,36 +344,12 @@
     "purgeAfter": "2026-10-04T19:00:00.000Z"
   },
   {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/ceb8e92ebba83fe9/10.png",
-    "sha256": "ceb8e92ebba83fe9b7bdae96f7cd78197f52a3215887fe4b9719de00994a7ccf",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-007",
     "publicPath": "m/cee6ef08be200ed5/05.png",
     "sha256": "cee6ef08be200ed5ac824bff2883eafae55bcfc658d1482057f51fb4f9ed1147",
     "mimeType": "image/png",
     "publishAt": "2026-09-13T13:00:00Z",
     "purgeAfter": "2026-10-04T13:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/d28d688b8bfcf5d8/02.png",
-    "sha256": "d28d688b8bfcf5d8797258e959bc2450c7694a13d5005f9f87b74cde0db05160",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/d28d688b8bfcf5d8/04.png",
-    "sha256": "d28d688b8bfcf5d8797258e959bc2450c7694a13d5005f9f87b74cde0db05160",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-006",
@@ -696,14 +360,6 @@
     "purgeAfter": "2026-10-03T19:00:00.000Z"
   },
   {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/ddcb4350fc4045f0/video.mp4",
-    "sha256": "ddcb4350fc4045f09986a02178f71c99db165e4e123b70096245af9699995f06",
-    "mimeType": "video/mp4",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-007",
     "publicPath": "m/e1e64a297928c435/03.jpg",
     "sha256": "e1e64a297928c43594d708acb5f10adb2fc71007ab46a959b9a9fbb3bd59ede1",
@@ -712,44 +368,12 @@
     "purgeAfter": "2026-10-04T19:00:00.000Z"
   },
   {
-    "campaignId": "season-01-2026-09-10-historia-012",
-    "publicPath": "m/e3bd2e9ce92c8bdd/01.png",
-    "sha256": "e3bd2e9ce92c8bdd02f74f413cfbe770bf3f911290e391aac9e246f9d68077c4",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T21:00:00Z",
-    "purgeAfter": "2026-10-01T21:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-005",
-    "publicPath": "m/e4c2b0a0dfedd195/02.png",
-    "sha256": "e4c2b0a0dfedd195d48da6e5e8e6b2cd47904d4adb66063a64b78ba1fead3d92",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-11T13:00:00Z",
-    "purgeAfter": "2026-10-02T13:00:00.000Z"
-  },
-  {
     "campaignId": "season-02-day-007",
     "publicPath": "m/ee03aa89b72b5539/02.png",
     "sha256": "ee03aa89b72b55399830eeeb94b9e30849ed5adee852c0fdb5c20bb1d64648e0",
     "mimeType": "image/png",
     "publishAt": "2026-09-13T19:00:00Z",
     "purgeAfter": "2026-10-04T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-004",
-    "publicPath": "m/ef516c7525bfefa7/01.png",
-    "sha256": "ef516c7525bfefa73e784b3d24e1997083e03d27037ff53b6e8a9d5c671c94d9",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T19:00:00Z",
-    "purgeAfter": "2026-10-01T19:00:00.000Z"
-  },
-  {
-    "campaignId": "season-02-day-004",
-    "publicPath": "m/f36d9ca25e8b2885/04.png",
-    "sha256": "f36d9ca25e8b288524e942aecce63aaf263ab5ab2b1643248bb0aa353a05994f",
-    "mimeType": "image/png",
-    "publishAt": "2026-09-10T19:00:00Z",
-    "purgeAfter": "2026-10-01T19:00:00.000Z"
   },
   {
     "campaignId": "season-02-day-006",
